@@ -1,8 +1,12 @@
 Acronym |	Meaning
 --------|-----------------------------------------------
-3D-HEVC |	3D high efficiency video coding
+2D      | Two dimension
+3D      | Three dimension
+3D-HEVC | 3D high efficiency video coding
 AAC 	| Advanced audio coding
 AAP 	| Alternative Approval Process
+ACM MoVid | Association for Computer Machinery Mobile Video
+ACQP    | Adaptive Chroma Quantization Parameter
 AhG 	| Ad hoc group
 AI 	| All intra (JCT-VC CTC)
 AIF* 	| Adaptive interpolation filter
@@ -10,12 +14,19 @@ ALF* 	| Adaptive loop filter
 AMP 	| Asymmetric motion partitioning
 AMVP 	| Advanced motion vector prediction
 ANG* 	| Angular intra prediction
+AOM     | Alliance for Open Media
+APIF    | Adaptive Pre-Interpolation Filter
 APS 	| Adaptation parameter set
-ASO 	| Arbitrary slice ordering (H.264/AVC)
+APSIPA  | Asia Pacific Signal and Information Processing Association
+ASIC    | Application-Specific Integrated Circuit
+ASIP    | Application Specific Instruction Set Processor
+ASO 	| Arbitrary slice ordering (H.264/AVC), in which slices may be coded out of raster sequence
+ATR     | Average Time Reduction
+ATSC    | Advanced Television Systems Committee
 AU 	| Access unit (Complete coded frame or field)
 AUD 	| Access unit delimiter
 AVC 	| Advanced video coding
-ASO     | Arbitrary Slice Order, in which slices may be coded out of raster sequence
+AVS     | Audio Video Standard
 arithmetic coding        | Coding method to reduce redundancy
 artefact  | Visual distortion in an image
 B Slices | Coded slice predicted using bidirectional motion compensation
@@ -35,6 +46,7 @@ CB 	| Coding Block
 CBF* 	| Coded block flag
 CBP 	| Coded block pattern (H.264/AVC)
 CBR 	| Constant bitrate
+CCP     | Cross Component prediction
 CD 	| Committee draft
 CD 	| Compact disk
 CE 	| Core experiment
@@ -45,6 +57,7 @@ CIF 	| Common Interchange Format 352×288 (a colour image format)
 CODEC   | COder / DECoder pair
 CPB 	| Coded Picture Buffer (Buffer containing coded frames or fields)
 CRA 	| Clean random access point
+CRI     | Color Remapping Information
 CRFB* 	| Compressed reference frame buffer
 CRT 	| Cathode ray tube
 CS 	| Constraint set (in CfP)
@@ -56,15 +69,21 @@ CTU 	| Coding Tree Unit
 CTX 	| CABAC context
 CU 	| Coding Unit
 CVS 	| Coded Video Sequence
+CWWSSIM | Complex-Wavelet Structural Similarity Index
 chrominance or chroma | Colour difference component
 colour space | Method of representing colour images
 DAM 	| Draft amendment
+DASH    | Dynamic Adaptive Streaming over HTTP
 DC 	| Direct current
+DCC     | Data Compression Conference
 DCT 	| Discrete cosine transform (a mathematical ransform and/or its practical approximation(s))
 DCTIF 	| DCT interpolation filter
 DIF* 	| DCT interpolation filter, syn. DCTIF
 DIF* 	| Directional interpolation filter
 DIS 	| Draft international standard
+DIP     | Digital Image Processing
+DiOR    | Digital Operating Room
+DIQA    | Document Image Quality Assessment
 DLP* 	| Decodable leading picture, syn. RADL
 DMVD 	| Decoder side motion vector derivation
 DPB 	| Decoded picture buffer
@@ -76,6 +95,7 @@ DUT* 	| Directional unified transform
 DVD 	| Digital Versatile Disk
 DWT     | Discrete Wavelet Transform
 direct prediction | A coding mode in which no motion vector is transmitted
+EC      | Error Concealment
 EG 	| Exp-Golomb code
 EL 	| Enhancement layer
 EO 	| SAO edge offset
@@ -94,12 +114,14 @@ FMO 	| Flexible macroblock ordering (H.264/AVC), in which macroblocks may be cod
 FRExt 	| Fidelity range extensions (of H.264/AVC)
 Full search | A motion estimation algorithm
 Fully Configurable Video Coding | A framework for video coding in which a codec may be completely re-configured during a communication session
+FSIM    | Feature Similarity
 field   | Odd- or even-numbered lines from an interlaced video sequence
 fps 	| Frames per second
 GRD 	| Gradual Decoder Refresh (H.264/AVC)
 GOP 	| Group of pictures (a set of coded video images)
 HD 	| High definition
 HDTV 	| High definition television
+HEIF    | High Efficiency Image File Format
 HEVC 	| High efficiency video coding
 HM 	| HEVC test model
 HP 	| Highpass [filter]
@@ -120,7 +142,10 @@ IRAP 	| Intra random access point (see also RAP)
 IS 	| International standard
 ISDN 	| Integrated services digital network
 ISO 	| International organization for standardization, a standards body
+ISOBMFF | ISO Based Media File Format
 ITU 	| International telecommunication union, a standards body
+IVC     | Internet Video Coding
+ITM     | Internet Video Coding Test Model
 inter(coding) | Coding of video frames using temporal prediction or compensation
 interlaced (video) | Video data represented as a series of fields
 intra (coding) | Coding of video frames without temporal prediction
@@ -187,10 +212,13 @@ PPS 	| Picture parameter set
 PSNR 	| Peak signal to noise ratio, an objective quality measure
 POC 	| Picture order count
 PU 	| Prediction unit
+PVC     | Perceptual Video Coding
+PVQ     | Perceptual Vector Quantization
 profile | A set of functional capabilities (of a video CODEC)
 progressive (video) | Video data represented as a series of complete frames
 QCIF 	| Quarter common intermediate format 176×144
 QHD 	| Quarter High Definition 960×540
+QOE     | Quality of Experience 
 QP 	| Quantization parameter
 quantize | Reduce the precision of a scalar or vector quantity
 RA 	| Random access (JCT-VC CTC)
@@ -203,9 +231,12 @@ RDO 	| Rate-distortion optimization
 RDOQ 	| Rate-distortion optimized quantization
 RExt 	| HEVC Range extensions
 RGB 	| Red green blue, color format
+RL      | Reference Layer
 RPL 	| Reference picture list
 RPS 	| Reference picture set
+ROI     | Region of interest
 RQT 	| Residual quadtree
+RTC     | Real Time Communications
 RTP 	| Real-time transport protocol
 RVC     | Reconfigurable Video Coding, a framework for video coding in which a decoder may be constructed from pre-defined Functional Units.
 RGB     | Red/Green/Blue colour space
@@ -215,20 +246,25 @@ SAD 	| Sum of absolute differences
 SAO 	| Sample adaptive offset
 SAR 	| Sample aspect ration
 SATD 	| Sum of absolute transformed differences
+SC 	| Sub-committee
+SCC     | Screen Content Coding
+SCM     | Screen content coding test module
+SD 	| Standard definition (TV)
 SDH 	| Sign data hiding
 SECAM 	| Séquentiel couleur à mémoire
 SEI 	| Supplemental enhancement information
-SC 	| Sub-committee
-SD 	| Standard definition (TV)
 SG 	| Study group
 SHVC 	| Scalable high efficiency video coding
 SI slice | Intra-coded slice used for switching between coded bitstreams (H.264)
+SIMD    | Single Instruction Multiple Data
+SMPTE   | Society of Motion Picture and Television Engineer
 SODB 	| String of data bits
 SOP 	| Structure of pictures, see also GOP
 SPS 	| Sequence parameter set
 SP slice | Inter-coded slice used for switching between coded bitstreams
 SSD 	| Sum of squared differences
 SSE 	| Sum of squared error
+SSIM    | Structural Similarity
 STSA 	| Stepwise temporal sub-layer access
 SVC 	| Scalable video coding (H.264/AVC)
 scalable coding | Coding a signal into a number of layers
@@ -243,10 +279,14 @@ TE 	| Tool experiment
 TFD* 	| Tagged for discard [picture], syn. RASL
 TMuC 	| Test model under consideration
 TMVP 	| Temporal motion vector predictor
+TMO     | Tone Mapping Operator
+TSA     | Temporal Sub-layer Access
 TR 	| Truncated Rice [binarization]
 TSA 	| Temporal sub-layer access
 TSB 	| Transform sub-block
 TSB 	| Telecommunication standardization bureau
+TS      | Test Sequence, Transport Stream
+TSM     | Transform skip mode
 TU 	| Transform unit
 TV 	| Television
 test model | A software model and document that describe a reference implementation of a video coding standard
@@ -256,19 +296,23 @@ UHD 	| Ultra High Definition
 VBR 	| Variable bitrate
 VCEG 	| Visual coding experts group
 VCL 	| Video Coding Layer
+VDP     | Visible difference predictor
 VGA 	| Video Graphics Array 640×480
 VLC 	| Variable length code
 VLD     | Variable Length Decoder
 VLE     | Variable Length Encoder
 VLSI    | Very Large Scale Integrated circuit
 VPS 	| Video parameter set
+VQ      | Vector Quantization
+VQA     | Video Quality Assessment
 VQEG    | Very Large Scale Integrated circuit
 VUI 	| Video usability information
 video packet | Coded unit suitable for packetization
-weighted prediction | Motion compensation in which the prediction samples from two references are scaled
+WCG     | Wide Color Gamut
 WD 	| Working draft
 WG 	| Working group
 WPP 	| Wavefront parallel processing
+weighted prediction | Motion compensation in which the prediction samples from two references are scaled
 XGA 	| Extended Graphics Array 1024×768
 XYZ 	| XYZ color space
 YUV 	| Color format with luma and two chroma components
