@@ -232,6 +232,7 @@ RDOQ 	| Rate-distortion optimized quantization
 RExt 	| HEVC Range extensions
 RGB 	| Red green blue, color format
 RL      | Reference Layer
+RLE     | Run-length encoding
 RPL 	| Reference picture list
 RPS 	| Reference picture set
 ROI     | Region of interest
