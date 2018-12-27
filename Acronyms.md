@@ -56,6 +56,7 @@ CIE 	| Commission internationale de l’éclairage
 CIF 	| Common Interchange Format 352×288 (a colour image format)
 CODEC   | COder / DECoder pair
 CPB 	| Coded Picture Buffer (Buffer containing coded frames or fields)
+CPI     | Cycles per instructions - how many cycles on average a single instruction took to execute (the lower the better)
 CRA 	| Clean random access point
 CRI     | Color Remapping Information
 CRFB* 	| Compressed reference frame buffer
