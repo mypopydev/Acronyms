@@ -43,6 +43,7 @@ blocking | Square or rectangular distortion areas in an image
 CABAC 	| Context-based adaptive binary arithmetic coding
 CAVLC 	| Context adaptive variable length coding
 CB 	| Coding Block
+CBAC    | Context-based binary arithmetic coding
 CBF* 	| Coded block flag
 CBP 	| Coded block pattern (H.264/AVC)
 CBR 	| Constant bitrate
@@ -52,6 +53,7 @@ CD 	| Compact disk
 CE 	| Core experiment
 CfE 	| Call for evidence
 CfP 	| Call for proposals
+CG      | Coefficient group
 CIE 	| Commission internationale de l’éclairage
 CIF 	| Common Interchange Format 352×288 (a colour image format)
 CODEC   | COder / DECoder pair
