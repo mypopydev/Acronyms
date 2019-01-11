@@ -88,6 +88,7 @@ DIP     | Digital Image Processing
 DiOR    | Digital Operating Room
 DIQA    | Document Image Quality Assessment
 DLP* 	| Decodable leading picture, syn. RADL
+DNG     | Digital Negative, open lossless raw image format written by Adobe used for digital photography
 DMVD 	| Decoder side motion vector derivation
 DPB 	| Decoded picture buffer
 DPCM 	| Differential Pulse Code Modulation
