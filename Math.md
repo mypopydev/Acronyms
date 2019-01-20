@@ -1855,7 +1855,7 @@ turning point | 转向点
 two-dimensional space | 二维空间
 two-point form | 两点式
 two-tailed test | 双尾检验；只端检验
-type I error I 型误差
+type I error | I 型误差
 type II error | II 型误差
 unary operation | 一元运算
 unbiased estimator | 无偏估计量
@@ -1941,581 +1941,77 @@ zero factor | 零因子
 zero matrix | 零矩阵
 zero vector | 零向量
 zeros of a function | 函数零值
-
-Algebraic Equation
-代数方程
-Elementary Operations-Addition
-基础混算-加法
-Elementary Operations-Subtaction
-基础混算-减法
-Elementary Operations-Multiplication
-基础混算-乘法
-Elementary Operations-Division
-基础混算-除法
-Elementary Operation
-基础四则混算
-Decimal Operations
-小数混算
-Fractional Operations
-分数混算
-Convert fractional no. into decimal no.
-分数转小数
-Convert fractional no. into percentage.
-分数转百分数
-Convert decimal no. into percentage.
-小数转百分数
-Convert percentage into decimal no.
-百分数转小数
-Percentage
-百分数
-Numerals
-数字符号
-Common factors and multiples
-公因子及公倍数
-Sorting
-数字排序
-Area
-图形面积
-Perimeter
-图形周界
-Change Units : Time
-单位转换-时间
-Change Units : Weight
-单位转换-重量
-Change Units ength
-单位转换-长度
-Directed Numbers
-有向数
-Fractional Operations
-分数混算
-Decimal Operations
-小数混算
-Convert fractional no. into decimal no.
-分数转小数
-Convert fractional no. into percentage.
-分数转百分数
-Convert decimal no. into percentage.
-小数转百分数
-Convert percentage into decimal no.
-百分数转小数
-Percentage
-百分数
-Indices
-指数
-Algebraic Substitution
-代数代入
-Polynomials
-多项式
-Co-Geometry
-坐标几何学
-Solving Linear Equation
-解一元线性方程
-Solving Simultaneous Equation
-解联立方程
-Slope
-直线斜率
-Equation of Straight Line
-直线方程
-x-intercept ( Equation of St. Line )
-直线x 轴截距
-y-intercept ( Equation of St. Line )
-直线y 轴截距
-Factorization
-因式分解
-Quadratic Equation
-二次方程
-x-intercept ( Quadratic Equation )
-二次曲线x 轴截距
-Geometry
-几何学
-Inequalities
-不等式
-Rate and Ratio
-比和比例
-Bearing
-方位角
-Trigonometry
-三角学
-Probability
-概率
-Statistics-Graph
-统计学-统计图表
-Statistics-Measure of central tendency
-统计学-量度集中趋势
-Salary Tax
-薪俸税
-Bridging Game
-汉英对对碰
-Indices
-指数
-Function
-函数
-Rate and Ratio
-比和比例
-Trigonometry
-三角学
-Inequalities
-不等式
-Linear Programming
-线性规划
-Co-Geometry
-坐标几何学
-Slope
-直线斜率
-Equation of Straight Line
-直线方程
-x-intercept ( Equation of St. Line )
-直线x 轴截距
-y-intercept ( Equation of St. Line )
-直线y 轴截距
-Factorization
-因式分解
-Quadratic Equation
-二次方程
-x-intercept ( Quadratic Equation )
-二次曲线x 轴截距
-Method of Bisection
-分半方法
-Polynomials
-多项式
-Probability
-概率
-Statistics-Graph
-统计学-统计图表
-Statistics-Measure of central tendency
-统计学-量度集中趋势
-Statistics-Measure of dispersion
-统计学-量度分布
-Statistics-Normal Distribution
-统计学-正态分布
-Surds
-根式
-Probability
-概率
-Statistics-Measure of dispersion
-统计学-量度离差
-Statistics-Normal Distribution
-统计学-正态分布
-Statistics-Binomial Distribution
-统计学
-Statistics-Poisson Distribution
-统计学
-Statistics-Geometric Distribution
-统计学
-Co-Geometry
-坐标几何学
-Sequence
-序列
-十万
-Hundred thousand
-三位数
-3-digit number
-千
-Thousand
-千万
-Ten million
-小数
-Decimal
-分子
-Numerator
-分母
-Denominator
-分数
-Fraction
-五位数
-5-digit number
-公因子
-Common factor
-公倍数
-Common multiple
-中国数字
-Chinese numeral
-平方
-Square
-平方根
-Square root
-古代计时工具
-Ancient timing device
-古代记时工具
-Ancient time-recording device
-古代记数方法
-Ancient counting method
-古代数字
-Ancient numeral
-包含
-Grouping
-四位数
-4-digit number
-四则计算
-Mixed operations (The four operations)
-加
-Plus
-加法
-Addition
-加法交换性质
-Commutative property of addition
-未知数
-Unknown
-百分数
-Percentage
-百万
-Million
-合成数
-Composite number
-多位数
-Large number
-因子
-Factor
-折扣
-Discount
-近似值
-Approximation
-阿拉伯数字
-Hindu-Arabic numeral
-定价
-Marked price
-括号
-Bracket
-计算器
-Calculator
-差
-Difference
-真分数
-Proper fraction
-退位
-Decomposition
-除
-Divide
-除法
-Division
-除数
-Divisor
-乘
-Multiply
-乘法
-Multiplication
-乘法交换性质
-Commutative property of multiplication
-乘法表
-Multiplication table
-乘法结合性质
-Associative property of multiplication
-被除数
-Dividend
-珠算
-Computation using Chinese abacus
-倍数
-Multiple
-假分数
-Improper fraction
-带分数
-mixed number
-现代计算工具
-Modern calculating devices
-售价
-Selling price
-万
-Ten thousand
-最大公因子
-Highest Common Factor (H.C.F.)
-最小公倍数
-Lowest Common Multiple (L.C.M.)
-减
-Minus / Subtract
-减少
-Decrease
-减法
-Subtraction
-等分
-Sharing
-等于
-Equal
-进位
-Carrying
-短除法
-Short division
-单数
-Odd number
-循环小数
-Recurring decimal
-零
-Zero
-算盘
-Chinese abacus
-亿
-Hundred million
-增加
-Increase
-质数
-Prime number
-积
-Product
-整除性
-Divisibility
-双数
-Even number
-罗马数字
-Roman numeral
-数学 mathematics, maths(BrE), math(AmE)
-公理 axiom
-定理 theorem
-计算 calculation
-运算 operation
-证明 prove
-假设 hypothesis, hypotheses(pl.)
-命题 proposition
-算术 arithmetic
-加 plus(prep.), add(v.), addition(n.)
-被加数 augend, summand
-加数 addend
-和 sum
-减 minus(prep.), subtract(v.), subtraction(n.)
-被减数 minuend
-减数 subtrahend
-差 remainder
-乘 times(prep.), multiply(v.), multiplication(n.)
-被乘数 multiplicand, faciend
-乘数 multiplicator
-积 product
-除 divided by(prep.), divide(v.), division(n.)
-被除数 dividend
-除数 divisor
-商 quotient
-等于 equals, is equal to, is equivalent to
-大于 is greater than
-小于 is lesser than
-大于等于 is equal or greater than
-小于等于 is equal or lesser than
-运算符 operator
-平均数mean
-算术平均数arithmatic mean
-几何平均数geometric mean n 个数之积的n 次方根
-倒数（reciprocal） x 的倒数为1/x
-有理数 rational number
-无理数 irrational number
-实数 real number
-虚数 imaginary number
-数字 digit
-数 number
-自然数 natural number
-整数 integer
-小数 decimal
-小数点 decimal point
-分数 fraction
-分子 numerator
-分母 denominator
-比 ratio
-正 positive
-负 negative
-零 null, zero, nought, nil
-十进制 decimal system
-二进制 binary system
-十六进制 hexadecimal system
-权 weight, significance
-进位 carry
-截尾 truncation
-四舍五入 round
-下舍入 round down
-上舍入 round up
-有效数字 significant digit
-无效数字 insignificant digit
-代数 algebra
-公式 formula, formulae(pl.)
-单项式 monomial
-多项式 polynomial, multinomial
-系数 coefficient
-未知数 unknown, x-factor, y-factor, z-factor
-等式，方程式 equation
-一次方程 simple equation
-二次方程 quadratic equation
-三次方程 cubic equation
-四次方程 quartic equation
-不等式 inequation
-阶乘 factorial
-对数 logarithm
-指数，幂 exponent
-乘方 power
-二次方，平方 square
-三次方，立方 cube
-四次方 the power of four, the fourth power
-n 次方 the power of n, the nth power
-开方 evolution, extraction
-二次方根，平方根 square root
-三次方根，立方根 cube root
-四次方根 the root of four, the fourth root
-n 次方根 the root of n, the nth root
-sqrt(2)=1.414
-sqrt(3)=1.732
-sqrt(5)=2.236
-常量 constant
-变量 variable
-坐标系 coordinates
-坐标轴 x-axis, y-axis, z-axis
-横坐标 x-coordinate
-纵坐标 y-coordinate
-原点 origin
-象限quadrant
-截距(有正负之分)intercede
-（方程的）解solution
-几何geometry
-点 point
-线 line
-面 plane
-体 solid
-线段 segment
-射线 radial
-平行 parallel
-相交 intersect
-角 angle
-角度 degree
-弧度 radian
-锐角 acute angle
-直角 right angle
-钝角 obtuse angle
-平角 straight angle
-周角 perigon
-底 base
-边 side
-高 height
-三角形 triangle
-锐角三角形 acute triangle
-直角三角形 right triangle
-直角边 leg
-斜边 hypotenuse
-勾股定理 Pythagorean theorem
-钝角三角形 obtuse triangle
-不等边三角形 scalene triangle
-等腰三角形 isosceles triangle
-等边三角形 equilateral triangle
-四边形 quadrilateral
-平行四边形 parallelogram
-矩形 rectangle
-长 length
-宽 width
-周长 perimeter
-面积 area
-相似 similar
-全等 congruent
-三角 trigonometry
-正弦 sine
-余弦 cosine
-正切 tangent
-余切 cotangent
-正割 secant
-余割 cosecant
-反正弦 arc sine
-反余弦 arc cosine
-反正切 arc tangent
-反余切 arc cotangent
-反正割 arc secant
-反余割 arc cosecant
-补充：
-集合aggregate
-元素 element
-空集 void
-子集 subset
-交集 intersection
-并集 union
-补集 complement
-映射 mapping
-函数 function
-定义域 domain, field of definition
-值域 range
-单调性 monotonicity
-奇偶性 parity
-周期性 periodicity
-图象 image
-数列，级数 series
-微积分 calculus
-微分 differential
-导数 derivative
-极限 limit
-无穷大 infinite(a.) infinity(n.)
-无穷小 infinitesimal
-积分 integral
-定积分 definite integral
-不定积分 indefinite integral
-复数 complex number
-矩阵 matrix
-行列式 determinant
-圆 circle
-圆心 centre(BrE), center(AmE)
-半径 radius
-直径 diameter
-圆周率 pi
-弧 arc
-半圆 semicircle
-扇形 sector
-环 ring
-椭圆 ellipse
-圆周 circumference
-轨迹 locus, loca(pl.)
-平行六面体 parallelepiped
-立方体 cube
-七面体 heptahedron
-八面体 octahedron
-九面体 enneahedron
-十面体 decahedron
-十一面体 hendecahedron
-十二面体 dodecahedron
-二十面体 icosahedron
-多面体 polyhedron
-旋转 rotation
-轴 axis
-球 sphere
-半球 hemisphere
-底面 undersurface
-表面积 surface area
-体积 volume
-空间 space
-双曲线 hyperbola
-抛物线 parabola
-四面体 tetrahedron
-五面体 pentahedron
-六面体 hexahedron 菱形 rhomb, rhombus, rhombi(pl.), diamond
-正方形 square
-梯形 trapezoid
-直角梯形 right trapezoid
-等腰梯形 isosceles trapezoid
-五边形 pentagon
-六边形 hexagon
-七边形 heptagon
-八边形 octagon
-九边形 enneagon
-十边形 decagon
-十一边形 hendecagon
-十二边形 dodecagon
-多边形 polygon
-正多边形 equilateral polygon
-相位 phase
-周期 period
-振幅 amplitude
-内心 incentre(BrE), incenter(AmE)
-外心 excentre(BrE), excenter(AmE)
-旁心 escentre(BrE), escenter(AmE)
-垂心 orthocentre(BrE), orthocenter(AmE)
-重心 barycentre(BrE), barycenter(AmE)
-内切圆 inscribed circle
-外切圆 circumcircle
-统计 statistics
-平均数 average
-加权平均数 weighted average
-方差 variance
-标准差 root-mean-square deviation, standard deviation
-比例 propotion
-百分比 percent
-百分点 percentage
-百分位数 percentile
-排列 permutation
-组合 combination
-概率，或然率 probability
-分布 distribution
-正态分布 normal distribution
-非正态分布 abnormal distribution
-图表 graph
-条形统计图 bar graph
-柱形统计图 histogram
-折线统计图 broken line graph
-曲线统计图 curve diagram
-扇形统计图 pie diagram
+Algebraic Equationv |代数方程
+Elementary Operations-Addition | 基础混算-加法
+Elementary Operations-Subtaction | 基础混算-减法
+Elementary Operations-Multiplication | 基础混算-乘法
+Elementary Operations-Division | 基础混算-除法
+Elementary Operation | 基础四则混算
+Decimal Operations | 小数混算
+Fractional Operations | 分数混算
+Convert fractional no. into decimal no. | 分数转小数
+Convert fractional no. into percentage. | 分数转百分数
+Convert decimal no. into percentage. | 小数转百分数
+Convert percentage into decimal no. | 百分数转小数
+Percentage | 百分数
+Numerals | 数字符号
+Common factors and multiples | 公因子及公倍数
+Sorting | 数字排序
+Area | 图形面积
+Perimeter | 图形周界
+Change Units : Time | 单位转换-时间
+Change Units : Weight | 单位转换-重量
+Change Units : Length | 单位转换-长度
+Directed Numbers | 有向数
+Fractional Operations | 分数混算
+Decimal Operations | 小数混算
+Indices | 指数
+Algebraic Substitution | 代数代入
+Polynomials | 多项式
+Co-Geometry | 坐标几何学
+Solving Linear Equation | 解一元线性方程
+Solving Simultaneous Equation | 解联立方程
+Slope | 直线斜率
+Equation of Straight Line | 直线方程
+x-intercept ( Equation of St. Line ) | 直线x 轴截距
+y-intercept ( Equation of St. Line ) | 直线y 轴截距
+Factorization | 因式分解
+Quadratic Equation | 二次方程
+x-intercept ( Quadratic Equation ) | 二次曲线x 轴截距
+Geometry | 几何学
+Inequalities | 不等式
+Rate and Ratio | 比和比例
+Bearing | 方位角
+Trigonometry | 三角学
+Probability | 概率
+Statistics-Graph | 统计学-统计图表
+Statistics-Measure of central tendency | 统计学-量度集中趋势
+Salary Tax | 薪俸税
+Indices | 指数
+Function | 函数
+Rate and Ratio | 比和比例
+Trigonometry | 三角学
+Inequalities | 不等式
+Linear Programming | 线性规划
+Method of Bisection | 分半方法
+Statistics-Measure of central tendency | 统计学-量度集中趋势
+Statistics-Measure of dispersion | 统计学-量度分布
+Statistics-Normal Distribution | 统计学-正态分布
+Surds | 根式
+Statistics-Measure of dispersion | 统计学-量度离差
+Statistics-Normal Distribution   | 统计学-正态分布
+Statistics-Poisson Distribution  | 统计学-泊松分布
+Statistics-Geometric Distribution | 统计学-几何分布
+Co-Geometry | 坐标几何学
+Sequence | 序列
+Numerator | 分子
+Denominator | 分母
+Fraction | 分数
+Common factor | 公因子
+Common multiple | 公倍数
+Grouping | 包含
+Mixed operations (The four operations) | 四则计算
+Commutative property of addition | 加法交换性质
+Composite number | 合成数
+Proper fraction | 真分数
 
