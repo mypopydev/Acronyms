@@ -977,791 +977,791 @@ internal energy | 内能
 internal force  | 内力
 internal point of division | 内分点
 interpolating polynomial | 插值多项式
-interpolation 插值
-inter-quartile range 四分位数间距
-intersect 相交
-intersection (1)交集；(2)相交；(3)交点
-interval 区间
-interval estimation 区间估计；区域估计
-intuition 直观
-invalid 失效；无效
-invariance 不变性
-invariant (1)不变的；(2)不变量；不变式
-inverse 反的；逆的
-inverse circular function 反三角函数
-inverse cosine function 反余弦函数
-inverse function 反函数；逆函数
-inverse cosine function 反三角函数
-inverse function 反函数；逆映射
-inverse mapping 反向映射；逆映射
-inverse matrix 逆矩阵
-inverse problem 逆算问题
-inverse proportion 反比例；逆比例
-inverse relation 逆关系
-inverse sine function 反正弦函数
-inverse tangent function 反正切函数
-inverse variation 反变(分)；逆变(分)
-invertible 可逆的
-invertible matrix 可逆矩阵
-irrational equation 无理方程
-irrational number 无理数
-irreducibility 不可约性
-irregular 不规则
-isomorphism 同构
-isosceles triangle 等腰三角形
-iterate (1)迭代值; (2)迭代
-iteration 迭代
-iteration form 迭代形
-iterative function 迭代函数
-iterative method 迭代法
-jet propulsion 喷气推进
-joint variation 联变(分)；连变(分)
-kinetic energy 动能
-kinetic friction 动摩擦
-known 己知
-L.H.S. 末项
-L'Hospital's rule 洛必达法则
-Lagrange interpolating polynomial 拉格朗日插值多项代
-Lagrange theorem 拉格朗日定理
-Lami's law 拉密定律
-Laplace expansion 拉普拉斯展式
-last term 末项
-latent root 本征根; 首通径
-lattice point 格点
-latus rectum 正焦弦; 首通径
-law 律；定律
-law of conservation of momentum 动量守恒定律
-law of indices 指数律；指数定律
-law of inference 推论律
-law of trichotomy 三分律
-leading coefficient 首项系数
-leading diagonal 主对角线
-least common multiple, lowest common multiple (L.C.M) 最小公倍数；最低公倍式
-least value 最小值
-left hand limit 左方极限
-lemma 引理
-lemniscate 双纽线
-length 长(度)
-letter 文字；字母
-like surd 同类根式
-like terms 同类项
-limacon 蜗牛线
-limit 极限
-limit of sequence 序列的极限
-limiting case 极限情况
-limiting friction 最大静摩擦
-limiting position 极限位置
-line 线；行
-line of action 作用力线
-line of best-fit 最佳拟合　
-line of greatest slope 最大斜率的直　；最大斜率　
-line of intersection 交线　
-line segment 线段
-linear 线性；一次
-linear convergence 线性收敛性
-linear differeantial equation 线性微分方程
-linear equation 线性方程；一次方程
-linear equation in two unknowns 二元一次方程；二元线性方程
-linear inequality 一次不等式；线性不等式
-linear momentum 线动量
-linear programming 线性规划
-linearly dependent 线性相关的
-linearly independent 线性无关的
-literal coefficient 文字系数
-literal equation 文字方程
-load 负荷
-loaded coin 不公正钱币
-loaded die 不公正骰子
-local maximum 局部极大(值)
-local minimum 局部极小(值)
-locus, loci 轨迹
-logarithm 对数
-logarithmic equation 对数方程
-logarithmic function 对数函数
-logic 逻辑
-logical deduction 逻辑推论；逻辑推理
-logical step 逻辑步骤
-long division method 长除法
-loop 回路
-loss 赔本；亏蚀
-loss per cent 赔率；亏蚀百分率
-lower bound 下界
-lower limit 下限
-lower quartile 下四分位数
-lower sum 下和
-lower triangular matrix 下三角形矩阵
-lowest common multiple(L.C.M) 最小公倍数
-machine 机械
-Maclaurin expansion 麦克劳林展开式
-Maclaurin series 麦克劳林级数
-magnitude 量；数量；长度；大小
-major arc 优弧；大弧
-major axis 长轴
-major sector 优扇形；大扇形
-major segment 优弓形；大弓形
-mantissa 尾数
-mantissa of logarithm 对数的尾数；对数的定值部
-many to one 多个对一个
-many-sided figure 多边形
-many-valued 多值的
-map into 映入
-map onto 映上
-mapping 映射
-marked price 标价
-Markov chain 马可夫链
-mass 质量
-mathematical analysis 数学分析
-mathematical induction 数学归纳法
-mathematical sentence 数句
-mathematics 数学
-matrix 阵; 矩阵
-matrix addition 矩阵加法
-matrix equation 矩阵方程
-matrix multiplication 矩阵乘法
-matrix operation 矩阵运算
-maximize 极大
-maximum absolute error 最大绝对误差
-maximum point 极大点
-maximum value 极大值
-mean 平均(值)；平均数；中数
-mean deviation 中均差；平均偏差
-mean value theorem 中值定理
-measure of dispersion 离差的量度
-measurement 量度
-mechanical energy 机械能
-median (1)中位数；(2)中线　
-meet 相交；相遇
-mensuration 计量；求积法
-method 方法
-method of completing square 配方法
-method of interpolation 插值法; 内插法
-method of least squares 最小二乘法; 最小平方法
-method of substitution 代换法；换元法
-method of successive substitution 逐次代换法; 逐次调替法
-method of superposition 迭合法
-metric unit 十进制单位
-mid-point 中点
-mid-point formula 中点公式
-mid-point theorem 中点定理
-million 百万
-minimize 极小
-minimum point 极小点
-minimum value 极小值
-Minkowski Inequality 闵可夫斯基不等式
-minor (1)子行列式；(2)劣；较小的
-minor arc 劣弧；小弧
-minor axis 短轴
-minor of a determinant 子行列式
-minor sector 劣扇形；小扇形
-minor segment 劣弓形；小弓形
-minus 减
-minute 分
-mixed number(fraction) 带分数
-modal class 众数组
-mode 众数
-model 模型
-modulo (1)模; 模数; (2)同余
-modulo arithmetic 同余算术
-modulus 模; 模数
-modulus of a complex number 复数的模
-modulus of elasticity 弹性模(数)
-moment arm (1)矩臂; (2)力臂
-moment of a force 力矩
-moment of inertia 贯性矩
-momentum 动量
-monomial 单项式
-monotone 单调
-monotonic convergence 单调收敛性
-monotonic decreasing 单调递减
-monotonic decreasing function 单调递减函数
-monotonic function 单调函数
-monotonic increasing 单调递增
-monotonic increasing function 单调递增函数
-motion 运动
-movable pulley 动滑轮
-multinomial 多项式
-multiple 倍2；数
-multiple angle 倍角
-multiple-angle formula 倍角公式
-multiple root 多重根
-multiplicand 被乘数
-multiplication 乘法
-multiplication law (of probability) (概率)乘法定律
-multiplicative inverse 乘法逆元
-multiplicative property 可乘性
-multiplicity 重数
-multiplier 乘数；乘式
-multiply 乘
-multi-value 多值的
-mulually disjoint 互不相交
-mutually exclusive events 互斥事件
-mutually independent 独立; 互相独立
-mutually perpendicular lines 互相垂直　
-n factorial n 阶乘
-n th derivative n 阶导数
-n th root n 次根；n 次方根
-n the root of unity 单位的n 次根
-Napierian logarithm 纳皮尔对数; 自然对数
-natural logarithm 自然对数
-natural number 自然数
-natural surjection 自然满射
-necessary and sufficient condition 充要条件
-necessary condition 必要条件
-negation 否定式
-negative 负
-negative angle 负角
-negative binomial distribution 负二项式分布
-negative index 负指数
-negative integer 负整数
-negative number 负数
-negative vector 负向量; 负矢量
-neighborhood 邻域
-net 净(值)
-net force 净力
-Newton-Cote's rule 牛顿 - 高斯法则
-Newton-Raphson's method 牛顿 - 纳逊方法
-Newton's formula 牛顿公式
-Newton's law of motion 牛顿运动定律
-Newton's method 牛顿方法
-n-gon n 边形
-nonagon 九边形
-non-collinear 不共线　
-non-commutative 非交换的
-non-linear 非线性
-non-linear equation 非线性方程
-non-negative 非负的
-non-reflexive 非自反的
-non-singular (1)满秩的; (2)非奇异的
-non-singular matrix 满秩矩阵
-non-transitive 非可递的
-non-trivial 非平凡的
-non-zero 非零
-norm 模方; 范数
-normal (1)垂直的；正交的；法线的 (2)正态的 (3)正常的；正规的
-normal curve 正态分布曲　；常庇分布曲　；正规曲　；正庇曲　
-normal distribution 正态分布，常态分布
-normal form 法线式
-normal reaction 反向法作用力
-normal to curve 曲线的法线
-normal vector 法向量
-normalize 正规化
-normalized form 标准型
-notation 记法；记号
-null 零; 空
-null hypothesis 零假设; 虚假设
-null set 空集
-null vector 零向量
-number 数
-number line 数线　
-number pair 数偶
-number pattern 数型
-number plane 数平面
-number system 数系
-numeral 数字；数码
-numeral system 记数系统
-numerator 分子
-numerical 数值的；数字的
-numerical analysis 数字分析
-numerical expression 数字式
-numerical integration 数值积分法
-numerical method 计算方法；数值法
-objective function 目标函数
-oblique 斜的
-oblique asymptote 斜渐近线
-oblique cone 斜圆锥
-oblique impact 斜向碰撞
-oblique triangle 斜三角形
-obtuse angle 钝角
-obtuse-angled triangle 钝角三角形
-octagon 八边形
-octahedron 八面体
-octant 卦限
-odd function 奇函数
-odd number 奇数
-one-to-many 一个对多个
-one-to-one 一个对一个
-one-one correspondence 一一对应
-one-one mapping 满射
-open interval 开区间
-open sentence 开句
-operation 运算
-opposite angle 对角
-opposite interior angle 内对角
-opposite side 对边
-optimal solution 最优解
-order (1)序；次序；(2)阶；级
-order of a matrix 矩阵的阶
-ordered n-tuples 有序n 元; 有序n 配列
-ordered pair 序偶
-ordered relation 有序关系
-ordered set 有序集
-ordered triples 有序三元; 有序三配列
-ordinary differential equation 常微分方程
-ordinate 纵坐标
-origin 原点
-orthocentre 垂心
-orthogonal 正交
-orthogonal circles 正交圆
-orthogonal projection 正射影
-orthogonality 正交性
-oscillation 振动
-oscillatory convergence 振动收敛性
-outcome 结果
-output 输出
-output box 输出框
-overlap 交迭；相交
-pairwise mutually exclusive events 两两互斥事件
-parabola 拋物线
-paraboloid 抛物面
-paradox 悖论
-parallel 平行(的)
-parallel force 平行力
-parallel lines 平行(直线)
-parallelepiped 平行六面体
-parallelogram 平行四边形
-parallelogram law of addition 平行四边形加法
-parallelogram method 平行四边形法
-parameter 参数；参变量
-parametric equation 参数方程
-parametric form 参数式
-partial fraction 部分分数；分项分式
-partial sum 部分和
-partial variation 部分变(分)
-particle 质点
-particular solution 特解
-partition 分割; 划分
-Pascal's triangle 帕斯卡斯三角形
-pattern 模型；规律
-pegboard 有孔版
-pencil of lines 线束
-pendulum 摆
-pentadecagon 十五边形
-pentagon 五边形
-per cent 百分率
-percentage 百分法；百分数
-percentage decrease 百分减少
-percentage error 百分误差
-percentage increase 百分增加
-percentile 百分位数
-perfect elastic body 完全弹性物体
-perfect number 完全数
-perfecr square 完全平方
-perimeter 周长；周界
-period 周期
-periodic function 周期函数
-permutation 排列
-permutation with repetition 重复排列
-permutation without repetition 无重复排列
-perpendicular 垂线；垂直(于)
-perpendicular bisector 垂直平分线　；中垂线　
-perpendicular line 垂直线　
-phase 相; 位相
-phase shift 相移
-pictogram 象形图
-pie chart 饼图；圆瓣图
-pinboard 钉板
-pivot 支点
-place holder 补位数字
-place value 位值
-plan (1)平面图；(2)计划
-plane 平面
-plane figure 平面图形
-plot 绘图
-plus 加
-point 点
-point circle 点圆
-point estimation 点估计
-point of application of force 施力点
-point of contact 切点
-point of division 分点
-point of inflection (inflexion) 拐点; 转折点
-point of intersection 交点
-point-slope form 点斜式
-Pisson distribution 泊松分布
-polar axis 极轴
-polar coordinate plane 极坐标平面
-polar coordinate 极坐标系统
-polar coordinate system 极坐标系统
-polar coordinates 极坐标
-polar equation 极方程
-polar form 点斜式
-pole 极
-polygon 多边形
-polygon law of addition 多边形加法
-polygon method 多边形法
-polyhedron 多面体
-polynomial 多项式
-polynomial equation 多项式方程
-population 总体
-population mean 总体平均(值)
-position vector 位置向量; 位置矢量
-positive 正
-positive index 正指数
-positive integer 正整数
-positive number 正数
-posterior probability 后验概率; 事后概率
-post-multiply 后乘; 自右乘
-postulate 公设
-potential energy 势能; 位能
-power (1)幂；乘方；(2)功率；(3)检定力
-power function 幂函数
-power series 幂级数
-power set 幂集; 势集
-precise 精密
-precision 精确度
-preimage 像原
-premultiply 前乘; 自左乘
-prime 素
-prime factor 质因子；质因素
-prime number 素数；质数
-primitive (1)本原的；原始的；(2)原函数
-primitive function 原函数
-principal (1)主要的；(2)本金
-principal angle 主角
-principal axis 主轴
-principal value 主值
-principal value interval 主值区间
-prior probability 先验概率; 事先概率
-prism 梭柱(体)；角柱(体)
-prismoid 平截头棱锥体
-probability 概率
-probability density function 概率密度函数
-probability distribution 概率分布
-probability generating function 概率母函数
-problem 应用题
-process box 处理框
-produce 延长
-product 乘积；积
-product and sum formula 和积互变公式
-product rule 积法则
-product sample space 积样本空间
-product set 积集
-product to sum formula 积化和差公式
-profit 盈利
-profit per cent 盈利百分率
-profits tax 利得税
-progression 级数
-projectile motion 抛射运动
-projecting lines 投射线
-projecting plane 投射平面
-projection 投影(映); 射影(映)
-proof 证(题)；证明
-proof by contradiction 反证法; 归谬法
-proof by contrapositive 反证法
-proper fraction 真分数
-proper integral 正常积分
-proper subset 真子集
-property 性质
-property tax 物业税
-proportion 比例
-proportional 成比例
-proposition 命题
-propositional calculus 命题演算
-propositional inference 命题推演
-protractor 量角器
-pulley 滑轮
-punch card 打孔卡
-purely imaginary number 纯虚数
-pyramid 棱锥(体)；角锥(体)
-Pythagoras' theorem 勾股定理
-Pythagorean triplet 毕氏三元数组
-quadrant 象限
-quadratic convergence 二阶收敛性
-quadratic equation 二次方程(式)
-quadratic formula 二次公式
-quadratic function 二次函数
-quadratic inequality 二次不等式
-quadratic polynomial 四边形
-quadrature 求积法
-quadrilateral 四边形
-quantifier 量词
-quantity 数量
-quartic equation 四次方程
-quartile 四分位数
-quintic equation 五次方程
-quotient 商；商式
-quotient rule 商法则
-quotient set 商集
-R.H.S 右
-radial component 沿径分量
-radian 弧度
-radian measure 弧度法
-radical 根式；根号；根数
-radical axis 根轴
-radical centre 根心
-radius, radii 半径
-random 随机
-random experiment 随机试验
-random number 随机数
-random sample 随机样本
-random variable 随机变量
-range 值s21 decim域；区域；范围；极差；分布域
-rank 秩
-rate 率；利率
-rate of change 变率; 变化率
-rate of convergence 收敛率
-ratio 比 比率
-rational expression 有理式；有理数式
-rational function 有理函数
-rational index 有理数指数
-rational number 有理数
-rationalization 有理化
-raw data 原始数据
-raw score 原始分（数）
-reaction (force) 反作用(力)
-real axis 实轴
-real number 实数
-real part 实部
-real root 实根
-reason 理由
-reciprocal 倒数
-recoil 反冲; 弹回
-rectangle 长方形；矩形
-rectangular block 长方体
-rectangular coordinate plane 直角坐标平面
-rectangular coordinates 直角坐
-rectangular distribution 矩形分布
-rectangular formula 矩形公式
-rectangular hyperbola 等轴只曲线; 正只曲线
-rectangular number 矩形数
-rectifiable 可求长的
-rectilinear figure 直线图形
-rectilinear motion 直线运动
-recurrence formula 递推公式
-recurrent 循环的
-recurring decimal 循环小数
-reduce 简化
-reducibility 可约性; 可化简性
-reducible 可约的；可化简的
-reductio ad absurdum 反证法; 归谬法
-reduction formula 归约公式
-reduction of forces 力的约化
-reference angle 参考角
-reference line 基准线
-reflex angle 优角；反角
-reflexive 自反的
-reflexive relation 自反关系
-region 区域
-region of acceptance 接受区域
-region of convergency 收敛区域
-region of rejection 否定区域
-regula falsi method 试位法
-regular 正；规则
-regular polygon 正多边形
-reject 舍去；否定
-relation 关系；关系式
-relative error 相对误差
-relative frequency 相对频数
-relative maximum 相对极大
-relative minimum 相对极小
-relative motion 相对运动
-relative velocity 相对速度
-relatively prime 互素
-remainder 余数；余式；剩余
-remainder term 余项
-remainder theorem 余式定理
-removable discontinuity 可移不连续性
-removal of brackets 撤括号；去括号
-repeated trials 重复试验
-residual 残差; 剩余
-resolution of force 力的分解
-resolution of vector 向量分解; 矢量分解
-resolve 分解
-restoring force 回复力
-resultant 合量
-resultant force 合力
-resultant vector 合向量; 合矢量
-resultant velocity 合速度
-retard 减速
-retardation 减速度
-revolution 旋转；周转
-rhombus 菱形
-right angle 直角
-right circular cone 直立圆锥（体）
-right circular cylinder 直立圆柱（体）
-right hand limit 右方极限
-right prism 直立棱柱；直立角柱(体)
-right pyramid 直立棱锥；直立角锥(体)
-right-angled triangle 直角二角形
-rigid body 刚体
-Rolle's theorem 洛尔定理
-root 根
-root-mean-square 均方根
-rotation 旋转
-round angle 周角
-rounded number 舍数
-rounding(off) 舍入；四舍五入
-row 行；棋行
-row vector 行向量; 行矢量
-rule 规则；法(则)
-ruler 直尺
-salaries tax 薪俸税
-sample 抽样；样本
-sample mean 样本平均数
-sample space 样本空间
-sampling distribution 抽样分布
-sampling theory 抽样理论
-sandwich theorem 迫近定理
-satisfy 满足；适合
-scalar 纯量; 无向量, 标量
-scalar matrix 纯量矩阵
-scalar multipliction 纯量乘法
-scalar product 纯量积
-scalar triple product 纯量三重积
-scale 比例尺；标度；图尺
-scalene triangle 不等边三角形；不规则三角形
-scatter diagram 散点图
-Schwartz's inequality 施瓦兹不等式
-scientific notation 科学记数法
-secant (1)正割; (2)割线
-secant method 正割法
-second 秒
-second derivative 二阶导数
-second order ordinary differential equation 二阶常微分方程
-second quartile 第二四分位数(1)截面；截线；(2)截点
-section (1)截面；截线　；(2)截点
-section formula 截点公式
-sector 扇式
-segment 段；节
-segment of a circle 弓形
-selling price 售价
-semicircle 半圆
-semi-conjugate axis 半共轭轴
-semi-major axis 半主轴; 半长轴
-semi-minor axis 半副轴; 半短轴
-semi-transverse axis 半贯轴
-semi-vertical angle 半顶角
-sentence 句；语句
-separable differential equation 可分微分方程
-septic equation 七次方程
-sequence 序列
-series 级数
-set 集
-set square 三角尺；三角板
-set-builder form 集的结构式
-shaded portion 有阴影部分
-shape 形状
-shear 位移
-side 边；侧
-sign 符号；记号
-signed number 有符号数
-significance level 显著性水平
-significant figure 有效数字
-signum 正负号函数
-similar 相似
-similar figures 相似图形
+interpolation | 插值
+inter-quartile range | 四分位数间距
+intersect | 相交
+intersection | (1)交集；(2)相交；(3)交点
+interval | 区间
+interval estimation | 区间估计；区域估计
+intuition | 直观
+invalid | 失效；无效
+invariance | 不变性
+invariant | (1)不变的；(2)不变量；不变式
+inverse | 反的；逆的
+inverse circular function | 反三角函数
+inverse cosine function | 反余弦函数
+inverse function | 反函数；逆函数
+inverse cosine function | 反三角函数
+inverse function | 反函数；逆映射
+inverse mapping | 反向映射；逆映射
+inverse matrix | 逆矩阵
+inverse problem | 逆算问题
+inverse proportion | 反比例；逆比例
+inverse relation | 逆关系
+inverse sine function | 反正弦函数
+inverse tangent function | 反正切函数
+inverse variation | 反变(分)；逆变(分)
+invertible | 可逆的
+invertible matrix | 可逆矩阵
+irrational equation | 无理方程
+irrational number | 无理数
+irreducibility | 不可约性
+irregular | 不规则
+isomorphism | 同构
+isosceles triangle | 等腰三角形
+iterate | (1)迭代值; (2)迭代
+iteration | 迭代
+iteration form | 迭代形
+iterative function | 迭代函数
+iterative method | 迭代法
+jet propulsion | 喷气推进
+joint variation | 联变(分)；连变(分)
+kinetic energy | 动能
+kinetic friction | 动摩擦
+known | 己知
+L.H.S. | 末项
+L'Hospital's rule | 洛必达法则
+Lagrange interpolating polynomial | 拉格朗日插值多项代
+Lagrange theorem | 拉格朗日定理
+Lami's law | 拉密定律
+Laplace expansion | 拉普拉斯展式
+last term | 末项
+latent root | 本征根; 首通径
+lattice point | 格点
+latus rectum | 正焦弦; 首通径
+law | 律；定律
+law of conservation of momentum | 动量守恒定律
+law of indices | 指数律；指数定律
+law of inference | 推论律
+law of trichotomy | 三分律
+leading coefficient | 首项系数
+leading diagonal | 主对角线
+least common multiple, lowest common multiple (L.C.M) | 最小公倍数；最低公倍式
+least value | 最小值
+left hand limit | 左方极限
+lemma | 引理
+lemniscate | 双纽线
+length | 长(度)
+letter | 文字；字母
+like surd | 同类根式
+like terms | 同类项
+limacon | 蜗牛线
+limit | 极限
+limit of sequence | 序列的极限
+limiting case | 极限情况
+limiting friction | 最大静摩擦
+limiting position | 极限位置
+line | 线；行
+line of action | 作用力线
+line of best-fit | 最佳拟合　
+line of greatest slope | 最大斜率的直　；最大斜率　
+line of intersection | 交线　
+line segment | 线段
+linear | 线性；一次
+linear convergence | 线性收敛性
+linear differeantial equation | 线性微分方程
+linear equation | 线性方程；一次方程
+linear equation in two unknowns | 二元一次方程；二元线性方程
+linear inequality | 一次不等式；线性不等式
+linear momentum | 线动量
+linear programming | 线性规划
+linearly dependent | 线性相关的
+linearly independent | 线性无关的
+literal coefficient | 文字系数
+literal equation | 文字方程
+load | 负荷
+loaded coin | 不公正钱币
+loaded die | 不公正骰子
+local maximum | 局部极大(值)
+local minimum | 局部极小(值)
+locus, loci | 轨迹
+logarithm | 对数
+logarithmic equation | 对数方程
+logarithmic function | 对数函数
+logic | 逻辑
+logical deduction | 逻辑推论；逻辑推理
+logical step | 逻辑步骤
+long division method | 长除法
+loop | 回路
+loss | 赔本；亏蚀
+loss per cent | 赔率；亏蚀百分率
+lower bound | 下界
+lower limit | 下限
+lower quartile | 下四分位数
+lower sum | 下和
+lower triangular matrix | 下三角形矩阵
+lowest common multiple(L.C.M) | 最小公倍数
+machine | 机械
+Maclaurin expansion | 麦克劳林展开式
+Maclaurin series | 麦克劳林级数
+magnitude | 量；数量；长度；大小
+major arc | 优弧；大弧
+major axis | 长轴
+major sector | 优扇形；大扇形
+major segment | 优弓形；大弓形
+mantissa | 尾数
+mantissa of logarithm | 对数的尾数；对数的定值部
+many to one | 多个对一个
+many-sided figure | 多边形
+many-valued | 多值的
+map into | 映入
+map onto | 映上
+mapping | 映射
+marked price | 标价
+Markov chain | 马可夫链
+mass | 质量
+mathematical analysis | 数学分析
+mathematical induction | 数学归纳法
+mathematical sentence | 数句
+mathematics | 数学
+matrix | 阵; 矩阵
+matrix addition | 矩阵加法
+matrix equation | 矩阵方程
+matrix multiplication | 矩阵乘法
+matrix operation | 矩阵运算
+maximize | 极大
+maximum absolute error | 最大绝对误差
+maximum point | 极大点
+maximum value | 极大值
+mean | 平均(值)；平均数；中数
+mean deviation | 中均差；平均偏差
+mean value theorem | 中值定理
+measure of dispersion | 离差的量度
+measurement | 量度
+mechanical energy | 机械能
+median | (1)中位数；(2)中线　
+meet | 相交；相遇
+mensuration | 计量；求积法
+method | 方法
+method of completing square | 配方法
+method of interpolation | 插值法; 内插法
+method of least squares | 最小二乘法; 最小平方法
+method of substitution | 代换法；换元法
+method of successive substitution | 逐次代换法; 逐次调替法
+method of superposition | 迭合法
+metric unit | 十进制单位
+mid-point | 中点
+mid-point formula | 中点公式
+mid-point theorem | 中点定理
+million | 百万
+minimize | 极小
+minimum point | 极小点
+minimum value | 极小值
+Minkowski Inequality | 闵可夫斯基不等式
+minor | (1)子行列式；(2)劣；较小的
+minor arc | 劣弧；小弧
+minor axis | 短轴
+minor of a determinant | 子行列式
+minor sector | 劣扇形；小扇形
+minor segment | 劣弓形；小弓形
+minus | 减
+minute | 分
+mixed number(fraction) | 带分数
+modal class | 众数组
+mode | 众数
+model | 模型
+modulo | (1)模; 模数; (2)同余
+modulo arithmetic | 同余算术
+modulus | 模; 模数
+modulus of a complex number | 复数的模
+modulus of elasticity | 弹性模(数)
+moment arm | (1)矩臂; (2)力臂
+moment of a force | 力矩
+moment of inertia | 贯性矩
+momentum | 动量
+monomial | 单项式
+monotone | 单调
+monotonic convergence | 单调收敛性
+monotonic decreasing | 单调递减
+monotonic decreasing function | 单调递减函数
+monotonic function | 单调函数
+monotonic increasing | 单调递增
+monotonic increasing function | 单调递增函数
+motion | 运动
+movable pulley | 动滑轮
+multinomial | 多项式
+multiple | 倍2；数
+multiple angle | 倍角
+multiple-angle formula | 倍角公式
+multiple root | 多重根
+multiplicand | 被乘数
+multiplication | 乘法
+multiplication law (of probability) | (概率)乘法定律
+multiplicative inverse | 乘法逆元
+multiplicative property | 可乘性
+multiplicity | 重数
+multiplier | 乘数；乘式
+multiply | 乘
+multi-value | 多值的
+mulually disjoint | 互不相交
+mutually exclusive events | 互斥事件
+mutually independent | 独立; 互相独立
+mutually perpendicular lines | 互相垂直　
+n factorial | n 阶乘
+n th derivative | n 阶导数
+n th root | n 次根；n 次方根
+n the root of unity | 单位的n 次根
+Napierian logarithm | 纳皮尔对数; 自然对数
+natural logarithm | 自然对数
+natural number | 自然数
+natural surjection | 自然满射
+necessary and sufficient condition | 充要条件
+necessary condition | 必要条件
+negation | 否定式
+negative | 负
+negative angle | 负角
+negative binomial distribution | 负二项式分布
+negative index | 负指数
+negative integer | 负整数
+negative number | 负数
+negative vector | 负向量; 负矢量
+neighborhood | 邻域
+net | 净(值)
+net force | 净力
+Newton-Cote's rule | 牛顿 - 高斯法则
+Newton-Raphson's method | 牛顿 - 纳逊方法
+Newton's formula | 牛顿公式
+Newton's law of motion | 牛顿运动定律
+Newton's method | 牛顿方法
+n-gon n | 边形
+nonagon | 九边形
+non-collinear | 不共线　
+non-commutative | 非交换的
+non-linear | 非线性
+non-linear equation | 非线性方程
+non-negative | 非负的
+non-reflexive | 非自反的
+non-singular | (1)满秩的; (2)非奇异的
+non-singular matrix | 满秩矩阵
+non-transitive | 非可递的
+non-trivial | 非平凡的
+non-zero | 非零
+norm | 模方; 范数
+normal | (1)垂直的；正交的；法线的 (2)正态的 (3)正常的；正规的
+normal | curve 正态分布曲　；常庇分布曲　；正规曲　；正庇曲　
+normal distribution | 正态分布，常态分布
+normal form | 法线式
+normal reaction | 反向法作用力
+normal to curve | 曲线的法线
+normal vector | 法向量
+normalize | 正规化
+normalized form | 标准型
+notation | 记法；记号
+null | 零; 空
+null hypothesis | 零假设; 虚假设
+null set | 空集
+null vector | 零向量
+number | 数
+number line | 数线　
+number pair | 数偶
+number pattern | 数型
+number plane | 数平面
+number system | 数系
+numeral | 数字；数码
+numeral system | 记数系统
+numerator | 分子
+numerical | 数值的；数字的
+numerical analysis | 数字分析
+numerical expression | 数字式
+numerical integration | 数值积分法
+numerical method | 计算方法；数值法
+objective function | 目标函数
+oblique | 斜的
+oblique asymptote | 斜渐近线
+oblique cone | 斜圆锥
+oblique impact | 斜向碰撞
+oblique triangle | 斜三角形
+obtuse angle | 钝角
+obtuse-angled triangle | 钝角三角形
+octagon | 八边形
+octahedron | 八面体
+octant | 卦限
+odd function | 奇函数
+odd number | 奇数
+one-to-many | 一个对多个
+one-to-one | 一个对一个
+one-one correspondence | 一一对应
+one-one mapping | 满射
+open interval | 开区间
+open sentence | 开句
+operation | 运算
+opposite angle | 对角
+opposite interior angle | 内对角
+opposite side | 对边
+optimal solution | 最优解
+order | (1)序；次序；(2)阶；级
+order of a matrix | 矩阵的阶
+ordered n-tuples | 有序n 元; 有序n 配列
+ordered pair | 序偶
+ordered relation | 有序关系
+ordered set | 有序集
+ordered triples | 有序三元; 有序三配列
+ordinary differential equation | 常微分方程
+ordinate | 纵坐标
+origin | 原点
+orthocentre | 垂心
+orthogonal | 正交
+orthogonal circles | 正交圆
+orthogonal projection | 正射影
+orthogonality | 正交性
+oscillation | 振动
+oscillatory convergence | 振动收敛性
+outcome | 结果
+output | 输出
+output box | 输出框
+overlap | 交迭；相交
+pairwise mutually exclusive events | 两两互斥事件
+parabola | 拋物线
+paraboloid | 抛物面
+paradox | 悖论
+parallel | 平行(的)
+parallel force | 平行力
+parallel lines | 平行(直线)
+parallelepiped | 平行六面体
+parallelogram | 平行四边形
+parallelogram law of addition | 平行四边形加法
+parallelogram method | 平行四边形法
+parameter | 参数；参变量
+parametric equation | 参数方程
+parametric form | 参数式
+partial fraction | 部分分数；分项分式
+partial sum | 部分和
+partial variation | 部分变(分)
+particle | 质点
+particular solution | 特解
+partition | 分割; 划分
+Pascal's triangle | 帕斯卡斯三角形
+pattern | 模型；规律
+pegboard | 有孔版
+pencil of lines | 线束
+pendulum | 摆
+pentadecagon | 十五边形
+pentagon | 五边形
+per cent | 百分率
+percentage | 百分法；百分数
+percentage decrease | 百分减少
+percentage error | 百分误差
+percentage increase | 百分增加
+percentile | 百分位数
+perfect elastic body | 完全弹性物体
+perfect number | 完全数
+perfecr square | 完全平方
+perimeter | 周长；周界
+period | 周期
+periodic function | 周期函数
+permutation | 排列
+permutation with repetition | 重复排列
+permutation without repetition | 无重复排列
+perpendicular | 垂线；垂直(于)
+perpendicular bisector | 垂直平分线　；中垂线　
+perpendicular line | 垂直线　
+phase | 相; 位相
+phase shift | 相移
+pictogram | 象形图
+pie chart | 饼图；圆瓣图
+pinboard | 钉板
+pivot | 支点
+place holder | 补位数字
+place value | 位值
+plan | (1)平面图；(2)计划
+plane | 平面
+plane figure | 平面图形
+plot | 绘图
+plus | 加
+point | 点
+point circle | 点圆
+point estimation | 点估计
+point of application of force | 施力点
+point of contact | 切点
+point of division | 分点
+point of inflection (inflexion) | 拐点; 转折点
+point of intersection | 交点
+point-slope form | 点斜式
+Pisson distribution | 泊松分布
+polar axis | 极轴
+polar coordinate plane | 极坐标平面
+polar coordinate | 极坐标系统
+polar coordinate system | 极坐标系统
+polar coordinates | 极坐标
+polar equation | 极方程
+polar form | 点斜式
+pole | 极
+polygon | 多边形
+polygon law of addition | 多边形加法
+polygon method | 多边形法
+polyhedron | 多面体
+polynomial | 多项式
+polynomial equation | 多项式方程
+population | 总体
+population mean | 总体平均(值)
+position vector | 位置向量; 位置矢量
+positive | 正
+positive index | 正指数
+positive integer | 正整数
+positive number | 正数
+posterior probability | 后验概率; 事后概率
+post-multiply | 后乘; 自右乘
+postulate | 公设
+potential energy | 势能; 位能
+power | (1)幂；乘方；(2)功率；(3)检定力
+power function | 幂函数
+power series | 幂级数
+power set | 幂集; 势集
+precise | 精密
+precision | 精确度
+preimage | 像原
+premultiply | 前乘; 自左乘
+prime | 素
+prime factor | 质因子；质因素
+prime number | 素数；质数
+primitive | (1)本原的；原始的；(2)原函数
+primitive function | 原函数
+principal | (1)主要的；(2)本金
+principal angle | 主角
+principal axis | 主轴
+principal value | 主值
+principal value interval | 主值区间
+prior probability | 先验概率; 事先概率
+prism | 梭柱(体)；角柱(体)
+prismoid | 平截头棱锥体
+probability | 概率
+probability density function | 概率密度函数
+probability distribution | 概率分布
+probability generating function | 概率母函数
+problem | 应用题
+process box | 处理框
+produce | 延长
+product | 乘积；积
+product and sum formula | 和积互变公式
+product rule | 积法则
+product sample space | 积样本空间
+product set | 积集
+product to sum formula | 积化和差公式
+profit | 盈利
+profit per cent | 盈利百分率
+profits tax | 利得税
+progression | 级数
+projectile motion | 抛射运动
+projecting lines | 投射线
+projecting plane | 投射平面
+projection | 投影(映); 射影(映)
+proof | 证(题)；证明
+proof by contradiction | 反证法; 归谬法
+proof by contrapositive | 反证法
+proper fraction | 真分数
+proper integral | 正常积分
+proper subset | 真子集
+property | 性质
+property tax | 物业税
+proportion | 比例
+proportional | 成比例
+proposition | 命题
+propositional calculus | 命题演算
+propositional inference | 命题推演
+protractor | 量角器
+pulley | 滑轮
+punch card | 打孔卡
+purely imaginary number | 纯虚数
+pyramid | 棱锥(体)；角锥(体)
+Pythagoras' theorem | 勾股定理
+Pythagorean triplet | 毕氏三元数组
+quadrant | 象限
+quadratic convergence | 二阶收敛性
+quadratic equation | 二次方程(式)
+quadratic formula | 二次公式
+quadratic function | 二次函数
+quadratic inequality | 二次不等式
+quadratic polynomial | 四边形
+quadrature | 求积法
+quadrilateral | 四边形
+quantifier | 量词
+quantity | 数量
+quartic equation | 四次方程
+quartile | 四分位数
+quintic equation | 五次方程
+quotient | 商；商式
+quotient rule | 商法则
+quotient set | 商集
+R.H.S | 右
+radial component | 沿径分量
+radian | 弧度
+radian measure | 弧度法
+radical | 根式；根号；根数
+radical axis | 根轴
+radical centre | 根心
+radius, radii | 半径
+random | 随机
+random experiment | 随机试验
+random number | 随机数
+random sample | 随机样本
+random variable | 随机变量
+range | 域；区域；范围；极差；分布域
+rank | 秩
+rate | 率；利率
+rate of change | 变率; 变化率
+rate of convergence | 收敛率
+ratio | 比 比率
+rational expression | 有理式；有理数式
+rational function | 有理函数
+rational index | 有理数指数
+rational number | 有理数
+rationalization | 有理化
+raw data | 原始数据
+raw score | 原始分（数）
+reaction (force) | 反作用(力)
+real axis | 实轴
+real number | 实数
+real part | 实部
+real root | 实根
+reason | 理由
+reciprocal | 倒数
+recoil | 反冲; 弹回
+rectangle | 长方形；矩形
+rectangular block | 长方体
+rectangular coordinate plane | 直角坐标平面
+rectangular coordinates | 直角坐
+rectangular distribution | 矩形分布
+rectangular formula | 矩形公式
+rectangular hyperbola | 等轴只曲线; 正只曲线
+rectangular number | 矩形数
+rectifiable | 可求长的
+rectilinear figure | 直线图形
+rectilinear motion | 直线运动
+recurrence formula | 递推公式
+recurrent | 循环的
+recurring decimal | 循环小数
+reduce | 简化
+reducibility | 可约性; 可化简性
+reducible | 可约的；可化简的
+reductio ad absurdum | 反证法; 归谬法
+reduction formula | 归约公式
+reduction of forces | 力的约化
+reference angle | 参考角
+reference line | 基准线
+reflex angle | 优角；反角
+reflexive | 自反的
+reflexive relation | 自反关系
+region | 区域
+region of acceptance | 接受区域
+region of convergency | 收敛区域
+region of rejection | 否定区域
+regula falsi method | 试位法
+regular | 正；规则
+regular polygon | 正多边形
+reject | 舍去；否定
+relation | 关系；关系式
+relative error | 相对误差
+relative frequency | 相对频数
+relative maximum | 相对极大
+relative minimum | 相对极小
+relative motion | 相对运动
+relative velocity | 相对速度
+relatively prime | 互素
+remainder | 余数；余式；剩余
+remainder term | 余项
+remainder theorem | 余式定理
+removable discontinuity | 可移不连续性
+removal of brackets | 撤括号；去括号
+repeated trials | 重复试验
+residual | 残差; 剩余
+resolution of force | 力的分解
+resolution of vector | 向量分解; 矢量分解
+resolve | 分解
+restoring force | 回复力
+resultant | 合量
+resultant force | 合力
+resultant vector | 合向量; 合矢量
+resultant velocity | 合速度
+retard | 减速
+retardation | 减速度
+revolution | 旋转；周转
+rhombus | 菱形
+right angle | 直角
+right circular cone | 直立圆锥（体）
+right circular cylinder | 直立圆柱（体）
+right hand limit | 右方极限
+right prism | 直立棱柱；直立角柱(体)
+right pyramid | 直立棱锥；直立角锥(体)
+right-angled triangle | 直角二角形
+rigid body | 刚体
+Rolle's theorem | 洛尔定理
+root | 根
+root-mean-square | 均方根
+rotation | 旋转
+round angle | 周角
+rounded number | 舍数
+rounding(off) | 舍入；四舍五入
+row | 行；棋行
+row vector | 行向量; 行矢量
+rule | 规则；法(则)
+ruler | 直尺
+salaries tax | 薪俸税
+sample | 抽样；样本
+sample mean | 样本平均数
+sample space | 样本空间
+sampling distribution | 抽样分布
+sampling theory | 抽样理论
+sandwich theorem | 迫近定理
+satisfy | 满足；适合
+scalar | 纯量; 无向量, 标量
+scalar matrix | 纯量矩阵
+scalar multipliction | 纯量乘法
+scalar product | 纯量积
+scalar triple product | 纯量三重积
+scale | 比例尺；标度；图尺
+scalene triangle | 不等边三角形；不规则三角形
+scatter diagram | 散点图
+Schwartz's inequality | 施瓦兹不等式
+scientific notation | 科学记数法
+secant | (1)正割; (2)割线
+secant method | 正割法
+second | 秒
+second derivative | 二阶导数
+second order ordinary differential equation | 二阶常微分方程
+second quartile | 第二四分位数(1)截面；截线；(2)截点
+section | (1)截面；截线　；(2)截点
+section formula | 截点公式
+sector | 扇式
+segment | 段；节
+segment of a circle | 弓形
+selling price | 售价
+semicircle | 半圆
+semi-conjugate axis | 半共轭轴
+semi-major axis | 半主轴; 半长轴
+semi-minor axis | 半副轴; 半短轴
+semi-transverse axis | 半贯轴
+semi-vertical angle | 半顶角
+sentence | 句；语句
+separable differential equation | 可分微分方程
+septic equation | 七次方程
+sequence | 序列
+series | 级数
+set | 集
+set square | 三角尺；三角板
+set-builder form | 集的结构式
+shaded portion | 有阴影部分
+shape | 形状
+shear | 位移
+side | 边；侧
+sign | 符号；记号
+signed number | 有符号数
+significance level | 显著性水平
+significant figure | 有效数字
+signum | 正负号函数
+similar | 相似
+similar figures | 相似图形
 similar triangles 相似三角形
-similarity 相似(性)
-simple equation 简易方程
-simple harmonic motion 简谐运动
-simple interest 单利；单利息
-simple iteration method 简单迭代法
-simple pendulum 单摆
-simplify 简化
-Simpson's integral 森逊积分
-Simpson's rule 森逊法则
-simultaneous differential equations 微分方程组; 联立微分方程
-simultaneous equations 联立方程
-simultaneous inequalities 联立不等式
-simultaneous linear equations in two unknowns 联合二次线性方程式
-sine 正弦
-sine formula 正弦公式
-singleton 单元集
-single-valued function 单值函数
-singular 奇的
-singular matrix 奇异矩阵; 不可逆矩阵
-skew distribution 偏斜分布
-skew line 偏斜线
-slant edge 斜棱
-slant height 斜高
-slope 斜率；斜度；倾斜；坡度
-slope-intercept form 斜率截距式；斜截式
-soild with uniform corss-section 有均匀横切面的立体
-solid 立体；固体
-solid of revolution 旋转体; 回旋体
-solution 解；解法
-solution of equation 方程解
-solution of triangle 三角形解法
-solution set 解集
-solve 解
-span 生成
-special angle 特殊角；特别角
-speed 速率
-sphere 球形；球面
-spheroid 球体
-spiral 螺线
-square (1)平方；(2)正方形
-square bracket 方括号
-square matrix 方(矩)阵
-square number 正方形数；平方数
-square root 平方根；二次根
-squeeze theorem 迫近定理
-stability 稳度
-standard deviation 标准差；标准偏离
-standard equation 标准方程
-standard error 标准误差
-standard form 标准式
-standard normal distribution 标准正态分布; 标准常态分布
-standard score 标准分
-standard unit 标准单位
-statement 语句
-statement calculus 命题演算
-static friction 静磨擦
-statics 静力学
-stationary 平稳
-stationary point 平稳点; 逗留点; 驻点
-stationary value 平稳值
-statistical chart 统计分析
-statistical data 统计图表
-statistical significance 统计数据
-statistics 统计显著性
-step 统计; 统计学
-step function 阶梯函数
-straight line 直线
-straight line graph 直线图像
-strictly monotonic 严格单调
-strictly monotonic function 严格单调函数
-subject 主项
-submultiple angle formula 半角公式
-subnormal 次法线
-subsequence 子(序)列
-subset 子集
-subsidiary angle 辅助角
-substitute 代入
-substitution 代入; 代入法
-subtangent 次切线
-subtend 对向
-subtract 减
-subtraction 减法
-successive approximation 逐次逼近法
-successive derivative 逐次导数
-successive differentiation 逐次微分法
-sufficiency 充份性
-sufficient and necessary condition 充要条件
-sufficient condition 充份条件
-sufficiently close 充份接近
-suffix 下标
-sum 和
-sum to infinity 无限项之和
-sum to n terms n 项和
-sum to product formula 和化积公式
-summation 求和法; 总和
-summation formula 求和公式
-superimposing 迭合
-super set 母集
-supplementary angle 补角
-surd 根式; 不尽根
-surface 面; 表面
-surface area 表面面积; 曲面面积
-surface of revolution 旋转曲面; 回转曲面
-surjection 满射
-surjective function 满射函数; 映成函数
-syllogism 三段论
-symbol 符号; 记号
-symmetrix difference 对称差
-symmetric expression 对称式
-symmetric relation 对称关系
-symmetry 对称; 对称性
+similarity | 相似(性)
+simple equation | 简易方程
+simple harmonic motion | 简谐运动
+simple interest | 单利；单利息
+simple iteration method | 简单迭代法
+simple pendulum | 单摆
+simplify | 简化
+Simpson's integral | 森逊积分
+Simpson's rule | 森逊法则
+simultaneous differential equations | 微分方程组; 联立微分方程
+simultaneous equations | 联立方程
+simultaneous inequalities | 联立不等式
+simultaneous linear equations in two unknowns | 联合二次线性方程式
+sine | 正弦
+sine formula | 正弦公式
+singleton | 单元集
+single-valued function | 单值函数
+singular | 奇的
+singular matrix | 奇异矩阵; 不可逆矩阵
+skew distribution | 偏斜分布
+skew line | 偏斜线
+slant edge | 斜棱
+slant height | 斜高
+slope | 斜率；斜度；倾斜；坡度
+slope-intercept form | 斜率截距式；斜截式
+soild with uniform corss-section | 有均匀横切面的立体
+solid | 立体；固体
+solid of revolution | 旋转体; 回旋体
+solution | 解；解法
+solution of equation | 方程解
+solution of triangle | 三角形解法
+solution set | 解集
+solve | 解
+span | 生成
+special angle | 特殊角；特别角
+speed | 速率
+sphere | 球形；球面
+spheroid | 球体
+spiral | 螺线
+square | (1)平方；(2)正方形
+square bracket | 方括号
+square matrix | 方(矩)阵
+square number | 正方形数；平方数
+square root | 平方根；二次根
+squeeze theorem | 迫近定理
+stability | 稳度
+standard deviation | 标准差；标准偏离
+standard equation | 标准方程
+standard error | 标准误差
+standard form | 标准式
+standard normal distribution | 标准正态分布; 标准常态分布
+standard score | 标准分
+standard unit | 标准单位
+statement | 语句
+statement calculus | 命题演算
+static friction | 静磨擦
+statics | 静力学
+stationary | 平稳
+stationary point | 平稳点; 逗留点; 驻点
+stationary value | 平稳值
+statistical chart | 统计图表
+statistical data | 统计数据
+statistical significance | 统计显著性
+statistics | 统计; 统计学
+step | 阶梯
+step function | 阶梯函数
+straight line | 直线
+straight line graph | 直线图像
+strictly monotonic | 严格单调
+strictly monotonic function | 严格单调函数
+subject | 主项
+submultiple angle formula | 半角公式
+subnormal | 次法线
+subsequence | 子(序)列
+subset | 子集
+subsidiary angle | 辅助角
+substitute | 代入
+substitution | 代入; 代入法
+subtangent | 次切线
+subtend | 对向
+subtract | 减
+subtraction | 减法
+successive approximation | 逐次逼近法
+successive derivative | 逐次导数
+successive differentiation | 逐次微分法
+sufficiency | 充份性
+sufficient and necessary condition | 充要条件
+sufficient condition | 充份条件
+sufficiently close | 充份接近
+suffix | 下标
+sum | 和
+sum to infinity | 无限项之和
+sum to n terms | n 项和
+sum to product formula | 和化积公式
+summation | 求和法; 总和
+summation formula | 求和公式
+superimposing | 迭合
+super set | 母集
+supplementary angle | 补角
+surd | 根式; 不尽根
+surface | 面; 表面
+surface area | 表面面积; 曲面面积
+surface of revolution | 旋转曲面; 回转曲面
+surjection | 满射
+surjective function | 满射函数; 映成函数
+syllogism | 三段论
+symbol | 符号; 记号
+symmetrix difference | 对称差
+symmetric expression | 对称式
+symmetric relation | 对称关系
+symmetry | 对称; 对称性
 synthetic division | 综合除法
 system | 系统; 体系; 组; 系
 system of circles | 圆族; 圆系
