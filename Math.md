@@ -303,220 +303,220 @@ composite number      | 复合数；合成数
 composition of mappings | 映射构合
 composition of relations | 复合关系
 compound angle       | 复角
-compound angle formula 复角公式
-compound bar chart 综合棒形图
-compound discount 复折扣
-compound interest 复利；复利息
-compound probability 合成概率
-compound statement 复合命题; 复合叙述
-computation 计算
-computer 计算机；电子计算器
-concave 凹
-concave downward 凹向下的
-concave polygon 凹多边形
-concave upward 凹向上的
-concentric circles 同心圆
-concept 概念
-conclusion 结论
-concurrent 共点
-concyclic 共圆
-concyclic points 共圆点
-condition 条件
-conditional 条件句；条件式
-conditional identity 条件恒等式
-conditional inequality 条件不等式
-conditional probability 条件概率
-cone 锥；圆锥（体）
-confidence coefficient 置信系数
-confidence interval 置信区间
-confidence level 置信水平
-confidence limit 置信极限
-confocal section 共焦圆锥曲　
-congruence (1)全等；(2)同余
-congruence class 同余类
-congruent 全等
-congruent figures 全等图形
-congruent triangles 全等三角形
-conic 二次曲　; 圆锥曲　
-conic section 二次曲　; 圆锥曲　
-conical pendulum 圆锥摆
-conjecture 猜想
-conjugate 共轭
-conjugate axis 共轭
-conjugate diameters 共轭轴
-conjugate hyperbola 共轭(直)径
-conjugate imaginary / complex number 共轭双曲　
-conjugate radical 共轭虚/复数
-conjugate surd 共轭根式; 共轭不尽根
-conjunction 合取
+compound angle formula | 复角公式
+compound bar chart | 综合棒形图
+compound discount | 复折扣
+compound interest | 复利；复利息
+compound probability | 合成概率
+compound statement | 复合命题; 复合叙述
+computation | 计算
+computer | 计算机；电子计算器
+concave | 凹
+concave downward | 凹向下的
+concave polygon | 凹多边形
+concave upward | 凹向上的
+concentric circles | 同心圆
+concept | 概念
+conclusion | 结论
+concurrent | 共点
+concyclic  | 共圆
+concyclic points | 共圆点
+condition  | 条件
+conditional | 条件句；条件式
+conditional identity | 条件恒等式
+conditional inequality  | 条件不等式
+conditional probability | 条件概率
+cone | 锥；圆锥（体）
+confidence coefficient | 置信系数
+confidence interval  | 置信区间
+confidence level | 置信水平
+confidence limit | 置信极限
+confocal section | 共焦圆锥曲　
+congruence | (1)全等；(2)同余
+congruence class | 同余类
+congruent | 全等
+congruent figures | 全等图形
+congruent triangles | 全等三角形
+conic | 二次曲　; 圆锥曲　
+conic section | 二次曲　; 圆锥曲　
+conical pendulum | 圆锥摆
+conjecture | 猜想
+conjugate  | 共轭
+conjugate axis | 共轭
+conjugate diameters | 共轭轴
+conjugate hyperbola | 共轭(直)径
+conjugate imaginary / complex number | 共轭双曲　
+conjugate radical | 共轭虚/复数
+conjugate surd | 共轭根式; 共轭不尽根
+conjunction | 合取
 connective 连词
-connector box 捙接框
-consecutive integers 连续整数
-consecutive numbers 连续数；相邻数
-consequence 结论；推论
-consequent 条件；后项
-conservation of energy 能量守恒
-conservation of momentum 动量守恒
-conserved 守恒
-consistency condition 相容条件
-consistent 一贯的；相容的
-consistent estimator 相容估计量
-constant 常数
-constant acceleration 恒加速度
-constant force 恒力
-constant of integration 积分常数
-constant speed 恒速率
-constant term 常项
-constant velocity 怛速度
-constraint 约束；约束条件
-construct 作
-construction 作图
-construction of equation 方程的设立
-continued proportion 连比例
-continued ratio 连比
-continuity 连续性
-continuity correction 连续校正
-continuous 连续的
-continuous data 连续数据
-continuous function 连续函数
-continuous proportion 连续比例
-continuous random variable 连续随机变量
-contradiction 矛盾
-converge 收敛
-convergence 收敛性
-convergent 收敛的
-convergent iteration 收敛的迭代
-convergent sequence 收敛序列
-convergent series 收敛级数
-converse 逆(定理)
-converse of a relation 逆关系
-converse theorem 逆定理
-conversion 转换
-convex 凸
-convex polygon 凸多边形
-convexity 凸性
-coordinate 坐标
-coordinate geometry 解析几何；坐标几何
-coordinate system 坐标系系定理；系；推论
-coplanar 共面
-coplanar forces 共面力
-coplanar lines 共面　
-co-prime 互质; 互素
-corollary 系定理; 系; 推论
-correct to 准确至；取值至
-correlation 相关
-correlation coefficient 相关系数
-correspondence 对应
-corresponding angles (1)同位角；(2)对应角
-corresponding element 对应边
-corresponding sides 对应边
-cosecant 余割
-cosine 余弦
-cosine formula 余弦公式
-cost price 成本
-cotangent 余切
-countable 可数
-countable set 可数集
-countably infinite 可数无限
-counter clockwise direction 逆时针方向；返时针方向
-counter example 反例
-counting 数数；计数
-couple 力偶
-Carmer's rule 克莱玛法则
-criterion 准则
-critical point 临界点
-critical region 临界域
-cirtical value 临界值
-cross-multiplication 交叉相乘
-cross-section 横切面；横截面；截痕
-cube 正方体；立方；立方体
-cube root 立方根
-cubic 三次方；立方；三次(的)
-cubic equation 三次方程
-cubic roots of unity 单位的立方根
-cuboid 长方体；矩体
-cumulative 累积的
-cumulative distribution function 累积分布函数
-cumulative frequecy 累积频数；累积频率
-cumulative frequency curve 累积频数曲　
-cumulative frequcncy distribution 累积频数分布
-cumulative frequency polygon 累积频数多边形；累积频率直方图
-curvature of a curve 曲线的曲率
-curve 曲线　
-curve sketching 曲线描绘(法)
-curve tracing 曲线描迹(法)
-curved line 曲线　
-curved surface 曲面
-curved surface area 曲面面积
-cyclic expression 输换式
-cyclic permutation 圆形排列
-cyclic quadrilateral 圆内接四边形
-cycloid 旋输线; 摆线
-cylinder 柱；圆柱体
-cylindrical 圆柱形的
-damped oscillation 阻尼振动
-data 数据
-De Moivre's theorem 棣美弗定理
-De Morgan's law 德摩根律
-decagon 十边形
-decay 衰变
-decay factor 衰变因子
-decelerate 减速
-decelaration 减速度
-decile 十分位数
-decimal 小数
-decimal place 小数位
-decimal point 小数点
-decimal system 十进制
-decision box 判定框
-declarative sentence 说明语句
-declarative statement 说明命题
-decoding 译码
-decrease 递减
-decreasing function 递减函数；下降函数
-decreasing sequence 递减序列；下降序列
-decreasing series 递减级数；下降级数
-decrement 减量
-deduce 演绎
-deduction 推论
-deductive reasoning 演绎推理
-definite 确定的；定的
-definite integral 定积分
-definition 定义
-degenerated conic section 降级锥曲线
-degree (1) 度; (2) 次
-degree of a polynomial 多项式的次数
-degree of accuracy 准确度
-degree of confidence 置信度
-degree of freedom 自由度
-degree of ODE 常微分方程次数
-degree of precision 精确度
-delete 删除; 删去
-denary number 十进数
-denominator 分母
-dependence (1)相关; (2)应变
-dependent event(s) 相关事件; 相依事件; 从属事件
-dependent variable 应变量; 应变数
-depreciation 折旧
-derivable 可导
-derivative 导数
-derived curve 导函数曲线
-derived function 导函数
-derived statistics 推算统计资料; 派生统计资料
-descending order 递降序
-descending powers of x x 的降序
-descriptive statistics 描述统计学
-detached coefficients 分离系数(法)
-determinant 行列式
-deviation 偏差; 变差
-deviation from the mean 离均差
-diagonal 对角线
-diagonal matrix 对角矩阵
-diagram 图; 图表
-diameter 直径
-diameter of a conic 二次曲线的直径
-difference 差
-difference equation 差分方程
+connector box | 捙接框
+consecutive integers | 连续整数
+consecutive numbers | 连续数；相邻数
+consequence | 结论；推论
+consequent | 条件；后项
+conservation of energy | 能量守恒
+conservation of momentum | 动量守恒
+conserved | 守恒
+consistency condition | 相容条件
+consistent | 一贯的；相容的
+consistent estimator | 相容估计量
+constant | 常数
+constant acceleration | 恒加速度
+constant force | 恒力
+constant of integration | 积分常数
+constant speed  | 恒速率
+constant term   | 常项
+constant velocity | 怛速度
+constraint | 约束；约束条件
+construct  | 作
+construction | 作图
+construction of equation | 方程的设立
+continued proportion | 连比例
+continued ratio | 连比
+continuity | 连续性
+continuity correction | 连续校正
+continuous | 连续的
+continuous data | 连续数据
+continuous function | 连续函数
+continuous proportion | 连续比例
+continuous random variable | 连续随机变量
+contradiction | 矛盾
+converge | 收敛
+convergence | 收敛性
+convergent | 收敛的
+convergent iteration | 收敛的迭代
+convergent sequence | 收敛序列
+convergent series | 收敛级数
+converse | 逆(定理)
+converse of a relation | 逆关系
+converse theorem | 逆定理
+conversion | 转换
+convex | 凸
+convex polygon | 凸多边形
+convexity | 凸性
+coordinate | 坐标
+coordinate geometry | 解析几何；坐标几何
+coordinate system   | 坐标系系定理；系；推论
+coplanar | 共面
+coplanar forces | 共面力
+coplanar lines  | 共面　
+co-prime        | 互质; 互素
+corollary       | 系定理; 系; 推论
+correct to      | 准确至；取值至
+correlation | 相关
+correlation coefficient | 相关系数
+correspondence | 对应
+corresponding angles | (1)同位角；(2)对应角
+corresponding element | 对应边
+corresponding sides | 对应边
+cosecant | 余割
+cosine | 余弦
+cosine formula | 余弦公式
+cost price | 成本
+cotangent | 余切
+countable | 可数
+countable set | 可数集
+countably infinite | 可数无限
+counter clockwise direction | 逆时针方向；返时针方向
+counter example | 反例
+counting | 数数；计数
+couple | 力偶
+Carmer's rule | 克莱玛法则
+criterion | 准则
+critical point | 临界点
+critical region | 临界域
+cirtical value | 临界值
+cross-multiplication | 交叉相乘
+cross-section | 横切面；横截面；截痕
+cube | 正方体；立方；立方体
+cube root | 立方根
+cubic | 三次方；立方；三次(的)
+cubic equation | 三次方程
+cubic roots of unity | 单位的立方根
+cuboid | 长方体；矩体
+cumulative | 累积的
+cumulative distribution function | 累积分布函数
+cumulative frequecy | 累积频数；累积频率
+cumulative frequency curve | 累积频数曲　
+cumulative frequcncy distribution | 累积频数分布
+cumulative frequency polygon | 累积频数多边形；累积频率直方图
+curvature of a curve | 曲线的曲率
+curve | 曲线　
+curve sketching | 曲线描绘(法)
+curve tracing | 曲线描迹(法)
+curved line | 曲线　
+curved surface | 曲面
+curved surface area | 曲面面积
+cyclic expression | 输换式
+cyclic permutation | 圆形排列
+cyclic quadrilateral | 圆内接四边形
+cycloid | 旋输线; 摆线
+cylinder | 柱；圆柱体
+cylindrical | 圆柱形的
+damped oscillation | 阻尼振动
+data | 数据
+De Moivre's theorem | 棣美弗定理
+De Morgan's law | 德摩根律
+decagon | 十边形
+decay | 衰变
+decay factor | 衰变因子
+decelerate | 减速
+decelaration | 减速度
+decile | 十分位数
+decimal | 小数
+decimal place | 小数位
+decimal point | 小数点
+decimal system  | 十进制
+decision box | 判定框
+declarative sentence | 说明语句
+declarative statement | 说明命题
+decoding | 译码
+decrease | 递减
+decreasing function | 递减函数；下降函数
+decreasing sequence | 递减序列；下降序列
+decreasing series   | 递减级数；下降级数
+decrement | 减量
+deduce | 演绎
+deduction | 推论
+deductive reasoning  | 演绎推理
+definite | 确定的；定的
+definite integral | 定积分
+definition | 定义
+degenerated conic section | 降级锥曲线
+degree | (1) 度; (2) 次
+degree of a polynomial | 多项式的次数
+degree of accuracy | 准确度
+degree of confidence | 置信度
+degree of freedom | 自由度
+degree of ODE | 常微分方程次数
+degree of precision | 精确度
+delete | 删除; 删去
+denary number | 十进数
+denominator | 分母
+dependence | (1)相关; (2)应变
+dependent event(s) | 相关事件; 相依事件; 从属事件
+dependent variable | 应变量; 应变数
+depreciation | 折旧
+derivable | 可导
+derivative | 导数
+derived curve | 导函数曲线
+derived function | 导函数
+derived statistics | 推算统计资料; 派生统计资料
+descending order | 递降序
+descending powers of x | x 的降序
+descriptive statistics | 描述统计学
+detached coefficients | 分离系数(法)
+determinant | 行列式
+deviation | 偏差; 变差
+deviation from the mean | 离均差
+diagonal | 对角线
+diagonal matrix | 对角矩阵
+diagram | 图; 图表
+diameter | 直径
+diameter of a conic | 二次曲线的直径
+difference | 差
+difference equation | 差分方程
 difference of sets 差集
 differentiable 可微
 differential 微分
@@ -1763,186 +1763,186 @@ symmetrix difference 对称差
 symmetric expression 对称式
 symmetric relation 对称关系
 symmetry 对称; 对称性
-synthetic division 综合除法
-system 系统; 体系; 组; 系
-system of circles 圆族; 圆系
-system of numerals 记数系统
-system of straight lines 直线族; 直线系
-table 表；数表
-tabulate 制表
-tabulation form 表列式
-tabulation method 列表法
-tail 反面（钱币）
-tangent （１）正切；（２）切　
-tautology 恒真命题；恒真式
-Taylor’s expansion 泰勒展开式
-Taylor’s series 泰勒级数
-Taylor’s theorem 泰勒定理
-tension 张力
-term 项
-terminal box 终端框
-terminal point 终点
-terminal side 终边
-terminal velocity 终端速度
-terminating decimal 有尽小数
-tesselation 密铺；铺嵌；嵌砌
-test ciiterion 检验标准
-test of significance 显著性检验
-tetrahedron 四面体
-theorem 定理
-theoretical probability 理论概率
-theory 理论；论
-third quartile 第三四分位数
-three-dimensional space 三维空间
-thrust 推力
-time 时间
-to the nearest 至最接近之
-top 顶
-torque 转矩
-torus 环面
-total 总数
-total probability 总概率
-touch 切；切触
-trace 　
-trajectory 轨　；轨迹
-transcendental function 超越函数
-transcendental number 超越数
-transform 变换；转换
-transformation 变换
-transformation of variable 变数转换
-transitive 可传递的
-transitive law 可迁律
-transitive property 传递性
-transitivity 传递性
-translation 平移
-transpose 移项；转置
-transpose of matrix 倒置矩阵；转置矩阵
-transversal 截　；横截的
-transverse axis 贯轴；横截轴
-transverse component 横截分量
-trapezium 梯形
-trapezoidal integral 梯形积分
-trapezoidal rule 梯形法则
-travel graph 行程图
-tree diagram 树形图
-trial 试；试验
-triangle 三角形
-triangle inequality 三角不等式
-triangle law of addition 三角形加法
-triangle method 三角形法
-triangular matrix 三角矩阵
-triangular number 三角形数
-triangular prism 三棱柱；三角柱
-trichotomy law 三分律；三一律
-trichotomy property 三分律；三一律
-trigonometric equation 三角方程
-trigonometric function 三角函数
-trigonometric identity 三角恒等式
-trigonometric ratio 三角比
-trigonometric table 三角函数表
-trigonometry 三角学；三角
-trinomial 三项式
-triple 三倍
-triple angle 三倍角
-triple product 三重积
-trisect 三等分
-trivial solution 平凡解
-trochoid 次摆　
-TRUE 真
-truncated Taylor’s series 截断泰勒级数
-truncation error 截断误差
-truth table 真值表
-truth value 真值
-turning point 转向点
-two-dimensional space 二维空间
-two-point form 两点式
-two-tailed test 双尾检验；只端检验
+synthetic division | 综合除法
+system | 系统; 体系; 组; 系
+system of circles | 圆族; 圆系
+system of numerals | 记数系统
+system of straight lines | 直线族; 直线系
+table | 表；数表
+tabulate | 制表
+tabulation form | 表列式
+tabulation method | 列表法
+tail | 反面（钱币）
+tangent  | （１）正切；（２）切　
+tautology | 恒真命题；恒真式
+Taylor’s expansion | 泰勒展开式
+Taylor’s series | 泰勒级数
+Taylor’s theorem | 泰勒定理
+tension | 张力
+term | 项
+terminal box | 终端框
+terminal point | 终点
+terminal side | 终边
+terminal velocity | 终端速度
+terminating decimal | 有尽小数
+tesselation | 密铺；铺嵌；嵌砌
+test ciiterion | 检验标准
+test of significance | 显著性检验
+tetrahedron | 四面体
+theorem | 定理
+theoretical probability | 理论概率
+theory | 理论；论
+third quartile | 第三四分位数
+three-dimensional space | 三维空间
+thrust | 推力
+time | 时间
+to the nearest | 至最接近之
+top | 顶
+torque | 转矩
+torus | 环面
+total | 总数
+total probability | 总概率
+touch | 切；切触
+trajectory | 轨　；轨迹
+transcendental function | 超越函数
+transcendental number | 超越数
+transform | 变换；转换
+transformation| 变换
+transformation of variable | 变数转换
+transitive | 可传递的
+transitive law | 可迁律
+transitive property | 传递性
+transitivity | 传递性
+translation | 平移
+transpose | 移项；转置
+transpose of matrix | 倒置矩阵；转置矩阵
+transversal | 截　；横截的
+transverse axis | 贯轴；横截轴
+transverse component | 横截分量
+trapezium  | 梯形
+trapezoidal integral | 梯形积分
+trapezoidal rule | 梯形法则
+travel graph | 行程图
+tree diagram | 树形图
+trial    | 试；试验
+triangle | 三角形
+triangle inequality      | 三角不等式
+triangle law of addition | 三角形加法
+triangle method   | 三角形法
+triangular matrix | 三角矩阵
+triangular number | 三角形数
+triangular prism | 三棱柱；三角柱
+trichotomy law | 三分律；三一律
+trichotomy property | 三分律；三一律
+trigonometric equation | 三角方程
+trigonometric function | 三角函数
+trigonometric identity | 三角恒等式
+trigonometric ratio | 三角比
+trigonometric table | 三角函数表
+trigonometry | 三角学；三角
+trinomial | 三项式
+triple | 三倍
+triple angle | 三倍角
+triple product | 三重积
+trisect | 三等分
+trivial solution | 平凡解
+trochoid | 次摆　
+TRUE | 真
+truncated Taylor’s series | 截断泰勒级数
+truncation error | 截断误差
+truth table | 真值表
+truth value | 真值
+turning point | 转向点
+two-dimensional space | 二维空间
+two-point form | 两点式
+two-tailed test | 双尾检验；只端检验
 type I error I 型误差
-type II error II 型误差
-unary operation 一元运算
-unbiased estimator 无偏估计量
-unbounded function 无界函数
-undefined 未下定义(的)
-undetermined coefficient 待定系数
-unequal 不等
-ungrouped data 不分组数据
-uniform 一致(的)；均匀(的)
-uniform acceleration 匀加速度
-uniform body 均匀物体
-uniform cross-section 均匀横切面
-uniform motion 匀速运动
-uniform speed 匀速率
-uniform velocity 匀速度
-uniformly distributed 均匀分布
-unimodal distribution 单峰分布
-union 并集; 和解
-unique solution 唯一解
-uniqueness 唯一性
-unit 单位
-unit area 单位面积
-unit circle 单位圆
-unit imaginary number 单位虚数
-unit matrix 单位矩阵
-unit vector 单位向量; 单位矢量
-unit volume 单位体积
-universal quantifier 全称量词
-universal set 全集; 宇集; 泛量
-unknown 未知数；未知量
-unlike 异类项
-upper bound 上界
-upper limit 上限
-upper quartile 上四分位数
-upper sum 上和
-upper triangular matrix 上三角形矩阵
-valid formula 恒直公式; 有效公式
-validity 真确性; 有效性
-value 值
-variability 可变性; 变异性
-variable 变项；变量；元；变元；变数
-variable speed 可变速率
-variable velocity 可变速度
-variance 方差
-variation 变数；变分
-vector 向量; 矢量
-vector addition 向量和; 矢量和
-vector equation 向量方程; 矢量方程
-vector function 向量函数; 矢量函数
-vector product 矢量积; 矢量积
-vector space 向量空间
-vector subspace 量子空间
-vector triple product 向量三重积
-velocity 速度
-Venn diagram 温氏图; 范氏图
-verify 证明；验证
-vertex, vertices 顶(点)；极点
-vertical 铅垂；垂直
-vertical angle 顶角
-vertical asymptote 垂直渐近线
-vertical component 垂直分量
-vertical line 纵线　；铅垂　
-vertically opposite angles 对顶角
-vibration 振动
-void set 空集
-volume 体积
-volume of revolution 旋转体的体积; 回转体的体积
-watt 瓦特; 瓦
-weight (1)重量；(2)权
-weighted average, weighted mean 加权平均数
-whole number 整数；完整数
-width 阔度
-without loss of generality 不失一般性
-work 功
-x-axis x 轴
-x-coordinate x 坐标
-x-intercept x 轴截距
-y-axis y 轴
-y-coordinate y 坐标
-y-intercept y 轴截距
-zero 零
-zero factor 零因子
-zero matrix 零矩阵
-zero vector 零向量
-zeros of a function 函数零值
+type II error | II 型误差
+unary operation | 一元运算
+unbiased estimator | 无偏估计量
+unbounded function | 无界函数
+undefined | 未下定义(的)
+undetermined coefficient |待定系数
+unequal | 不等
+ungrouped data | 不分组数据
+uniform | 一致(的)；均匀(的)
+uniform acceleration | 匀加速度
+uniform body | 均匀物体
+uniform cross-section | 均匀横切面
+uniform motion | 匀速运动
+uniform speed | 匀速率
+uniform velocity | 匀速度
+uniformly distributed | 均匀分布
+unimodal distribution | 单峰分布
+union | 并集; 和解
+unique solution | 唯一解
+uniqueness | 唯一性
+unit | 单位
+unit area   | 单位面积
+unit circle | 单位圆
+unit imaginary number | 单位虚数
+unit matrix | 单位矩阵
+unit vector | 单位向量; 单位矢量
+unit volume | 单位体积
+universal quantifier | 全称量词
+universal set | 全集; 宇集; 泛量
+unknown | 未知数；未知量
+unlike | 异类项
+upper bound | 上界
+upper limit | 上限
+upper quartile | 上四分位数
+upper sum | 上和
+upper triangular matrix | 上三角形矩阵
+valid formula | 恒直公式; 有效公式
+validity | 真确性; 有效性
+value | 值
+variability | 可变性; 变异性
+variable | 变项；变量；元；变元；变数
+variable speed | 可变速率
+variable velocity | 可变速度
+variance | 方差
+variation | 变数；变分
+vector | 向量; 矢量
+vector addition | 向量和; 矢量和
+vector equation | 向量方程; 矢量方程
+vector function | 向量函数; 矢量函数
+vector product | 矢量积; 矢量积
+vector space | 向量空间
+vector subspace | 量子空间
+vector triple product | 向量三重积
+velocity | 速度
+Venn diagram | 温氏图; 范氏图
+verify | 证明；验证
+vertex, vertices | 顶(点)；极点
+vertical | 铅垂；垂直
+vertical angle | 顶角
+vertical asymptote | 垂直渐近线
+vertical component | 垂直分量
+vertical line | 纵线　；铅垂　
+vertically opposite angles | 对顶角
+vibration | 振动
+void set | 空集
+volume | 体积
+volume of revolution | 旋转体的体积; 回转体的体积
+watt | 瓦特; 瓦
+weight | (1)重量；(2)权
+weighted average, weighted mean | 加权平均数
+whole number | 整数；完整数
+width | 阔度
+without loss of generality | 不失一般性
+work | 功
+x-axis | x 轴
+x-coordinate | x 坐标
+x-intercept | x 轴截距
+y-axis | y 轴
+y-coordinate | y 坐标
+y-intercept | y 轴截距
+zero | 零
+zero factor | 零因子
+zero matrix | 零矩阵
+zero vector | 零向量
+zeros of a function | 函数零值
+
 Algebraic Equation
 代数方程
 Elementary Operations-Addition
