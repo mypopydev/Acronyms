@@ -251,7 +251,7 @@ coaxial circles     | 共轴圆
 coaxial system      | 共轴系
 coded data          | 编码数据
 coding method       | 编码法
-co-domain           | 上域
+co-domain/codomain  | 上域
 coefficient         | 系数
 coefficient of friction | 摩擦系数
 coefficient of restitution | 碰撞系数; 恢复系数
@@ -1495,7 +1495,7 @@ random experiment | 随机试验
 random number | 随机数
 random sample | 随机样本
 random variable | 随机变量
-range | 域；区域；范围；极差；分布域
+range | 域；区域；范围；极差；分布域: 值域
 rank | 秩
 rate | 率；利率
 rate of change | 变率; 变化率
