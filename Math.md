@@ -1238,7 +1238,7 @@ non-trivial | 非平凡的
 non-zero | 非零
 norm | 模方; 范数
 normal | (1)垂直的；正交的；法线的 (2)正态的 (3)正常的；正规的
-normal | curve 正态分布曲　；常庇分布曲　；正规曲　；正庇曲　
+normal curve | 正态分布曲　；常庇分布曲　；正规曲　；正庇曲　
 normal distribution | 正态分布，常态分布
 normal form | 法线式
 normal reaction | 反向法作用力
@@ -1985,7 +1985,6 @@ Bearing | 方位角
 Trigonometry | 三角学
 Probability | 概率
 Statistics-Graph | 统计学-统计图表
-Statistics-Measure of central tendency | 统计学-量度集中趋势
 Salary Tax | 薪俸税
 Indices | 指数
 Function | 函数
@@ -1995,8 +1994,6 @@ Inequalities | 不等式
 Linear Programming | 线性规划
 Method of Bisection | 分半方法
 Statistics-Measure of central tendency | 统计学-量度集中趋势
-Statistics-Measure of dispersion | 统计学-量度分布
-Statistics-Normal Distribution | 统计学-正态分布
 Surds | 根式
 Statistics-Measure of dispersion | 统计学-量度离差
 Statistics-Normal Distribution   | 统计学-正态分布
