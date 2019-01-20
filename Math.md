@@ -517,467 +517,466 @@ diameter | 直径
 diameter of a conic | 二次曲线的直径
 difference | 差
 difference equation | 差分方程
-difference of sets 差集
-differentiable 可微
-differential 微分
-differential coefficient 微商; 微分系数
-differential equation 微分方程
-differential mean value theorem 微分中值定理
-differentiate 求...的导数
-differentiate from first principle 从基本原理求导数
-differentiation 微分法
-digit 数字
-dimension 量; 量网; 维(数)
-direct impact 直接碰撞
-direct image 直接像
-direct proportion 正比例
-direct tax, direct taxation 直接税
-direct variation 正变(分)
-directed angle 有向角
-directed line 有向直线
-directed line segment 有向线段
-directed number 有向数
-direction 方向; 方位
-direction angle 方向角
-direction cosine 方向余弦
-direction number 方向数
-direction ratio 方向比
-directrix 准线
-Dirichlet function 狄利克来函数
-discontinuity 不连续性
-discontinuous 间断(的);连续(的); 不连续(的)
-discontinuous point 不连续点
-discount 折扣
-discrete 分立; 离散
-discrete data 离散数据; 间断数据
-discrete random variable 间断随机变数
-discrete uniform distribution 离散均匀分布
-discriminant 判别式
-disjoint 不相交的
-disjoint sets 不相交的集
-disjunction 析取
-dispersion 离差
-displacement 位移
-disprove 反证
-distance 距离
-distance formula 距离公式
-distinct roots 相异根
-distincr solution 相异解
-distribution 公布
-distributive law 分配律
-diverge 发散
-divergence 发散(性)
-divergent 发散的
-divergent iteration 发散性迭代
-divergent sequence 发散序列
-divergent series 发散级数
-divide 除
-dividend (1)被除数；(2)股息
-divisible 可整除
-division 除法
-division algorithm 除法算式
-divisor 除数；除式；因子
-divisor of zero 零因子
-dodecagon 十二边形
-domain 定义域
-dot 点
-dot product 点积
-double angle 二倍角
-double angle formula 二倍角公式
-double root 二重根
-dual 对偶
-duality (1)对偶性; (2) 双重性
-due east/ south/ west /north 向 东/ 南/ 西/ 北
-dynamics 动力学
-eccentric angle 离心角
-eccentric circles 离心圆
-eccentricity 离心率
-echelon form 梯阵式
-echelon matrix 梯矩阵
-edge 棱；边
-efficient estimator 有效估计量
-effort 施力
-eigenvalue 本征值
-eigenvector 本征向量
-elastic body 弹性体
-elastic collision 弹性碰撞
-elastic constant 弹性常数
-elastic force 弹力
-elasticity 弹性
-element 元素
-elementary event 基本事件
-elementary function 初等函数
-elementary row operation 基本行运算
-elimination 消法
-elimination method 消去法；消元法
-ellipse 椭圆
-ellipsiod 椭球体
-elliptic function 椭圆函数
-elongation 伸张；展
-empirical data 实验数据
-empirical formula 实验公式
-empirical probability 实验概率；经验概率
-empty set 空集
-encoding 编码
-enclosure 界限
-end point 端点
-energy 能; 能量
-entire surd 整方根
-epicycloid 外摆线
-equal 相等
-equal ratios theorem 等比定理
-equal roots 等根
-equal sets 等集
-equality 等(式)
-equality sign 等号
-equation 方程
-equation in one unknown 一元方程
-equation in two unknowns
-(variables) 二元方程
-equation of a straight line 直线方程
-equation of locus 轨迹方程
-equiangular 等角(的)
-equidistant 等距(的)
-equilateral 等边(的)
-equilateral polygon 等边多边形
-equilateral triangle 等边三角形
-equilibrium 平衡
-equiprobable 等概率的
-equiprobable space 等概率空间
-equivalence 等价
-equivalence class 等价类
-equivalence relation 等价关系
-equivalent 等价(的)
-error 误差
-error allowance 误差宽容度
-error estimate 误差估计
-error term 误差项
-error tolerance 误差宽容度
-escribed circle 旁切圆
-estimate 估计；估计量
-estimator 估计量
-Euclidean algorithm 欧几里德算法
-Euclidean geometry 欧几里德几何
-Euler's formula 尤拉公式；欧拉公式
-evaluate 计值
-even function 偶函数
-even number 偶数
-evenly distributed 均匀分布的
-event 事件
-exact 真确
-exact differential form 恰当微分形式
-exact solution 准确解；精确解；真确解
-exact value 法确解；精确解；真确解
-example 例
-excentre 外心
-exception 例外
-excess 起
-exclusive 不包含
-exclusive disjunction 不包含性析取
-exclusive events 互斥事件
-exercise 练习
-exhaustive event(s) 彻底事件
-existential quantifier 存在量词
-expand 展开
-expand form 展开式
-expansion 展式
-expectation 期望
-expectation value, expected value 期望值；预期值
-experiment 实验；试验
-experimental 试验的
-experimental probability 实验概率
-explicit function 显函数
-exponent 指数
-exponential function 指数函数
-exponential order 指数阶; 指数级
-express…in terms of… 以………表达
-expression 式；数式
-extension 外延；延长；扩张；扩充
-extension of a function 函数的扩张
-exterior angle 外角
-external angle bisector 外分角　
-external point of division 外分点
-extreme point 极值点
-extreme value 极值
-extremum 极值
-face 面
-factor 因子；因式；商
-factor method 因式分解法
-factor theorem 因子定理；因式定理
-factorial 阶乘
-factorization 因子分解；因式分解
-factorization of polynomial 多项式因式分解
-fallacy 谬误
-FALSE 假(的)
-falsehood 假值
-family 族
-family of circles 圆族
-family of concentric circles 同心圆族
-family of straight lines 直线族
-feasible solution 可行解；容许解
-Fermat's last theorem 费尔马最后定理
-Fibonacci number 斐波那契数；黄金分割数
-Fibonacci sequence 斐波那契序列
-fictitious mean 假定平均数
-figure (1)图(形)；(2)数字
-final velocity 末速度
-finite 有限
-finite dimensional vector space 有限维向量空间
-finite population 有限总体
-finite probability space 有限概率空间
-finite sequence 有限序列
-finite series 有限级数
-finite set 有限集
-first approximation 首近似值
-first derivative 一阶导数
-first order differential equation 一阶微分方程
-first projection 第一投影; 第一射影
-first quartile 第一四分位数
-first term 首项
-fixed deposit 定期存款
-fixed point 定点
-fixed point iteration method 定点迭代法
-fixed pulley 定滑轮
-flow chart 流程图
-focal axis 焦轴
-focal chord 焦弦
-focal length 焦距
-focus(foci) 焦点
-folium of Descartes 笛卡儿叶形线
-foot of perpendicular 垂足
-for all X 对所有X
-for each /every X 对每一X
-force 力
-forced oscillation 受迫振动
-form 形式；型
-formal proof 形式化的证明
-format 格式；规格
-formula(formulae) 公式
-four leaved rose curve 四瓣玫瑰线
-four rules 四则
-four-figure table 四位数表
-fourth root 四次方根
-fraction 分数；分式
-fraction in lowest term 最简分数
-fractional equation 分式方程
-fractional index 分数指数
-fractional inequality 分式不等式
-free fall 自由下坠
-free vector 自由向量; 自由矢量
-frequency 频数；频率
-frequency distribution 频数分布；频率分布
-frequency distribution table 频数分布表
-frequency polygon 频数多边形；频率多边形
-friction 摩擦; 摩擦力
-frictionless motion 无摩擦运动
-frustum 平截头体
-fulcrum 支点
-function 函数
-function of function 复合函数；迭函数
-functional notation 函数记号
-fundamental theorem of algebra 代数基本定理
-fundamental theorem of calculus 微积分基本定理
-gain 增益；赚；盈利
-gain perent 赚率；增益率；盈利百分率
-game （1）对策；（2）博奕
-Gaussian distribution 高斯分布
-Gaussian elimination 高斯消去法
-general form 一般式；通式
-general solution 通解；一般解
-general term 通项
-generating function 母函数; 生成函数
-generator (1)母线; (2)生成元
-geoborad 几何板
-geometric distribution 几何分布
-geometric mean 几何平均数；等比中项
-geometric progression 几何级数；等比级数
-geometric sequence 等比序列
-geometric series 等比级数
-geometry 几何；几何学
-given 给定；已知
-global 全局; 整体
-global maximum 全局极大值; 整体极大值
-global minimum 全局极小值; 整体极小值
-golden section 黄金分割
-grade 等级
-gradient (1)斜率；倾斜率；(2)梯度
-grand total 总计
-graph 图像；图形；图表
-graph paper 图表纸
-graphical method 图解法
-graphical representation 图示；以图样表达
-graphical solution 图解
-gravitational acceleration 重力加速度
-gravity 重力
-greatest term 最大项
-greatest value 最大值
-grid lines 网网格线
-group 组；　
-grouped data 分组数据；分类数据
-grouping terms 并项；集项
-growth 增长
-growth factor 增长因子
-half angle 半角
-half angle formula 半角公式
-half closed interval 半闭区间
-half open interval 半开区间
-harmonic mean (1) 调和平均数; (2) 调和中项
-harmonic progression 调和级数
-head 正面（钱币）
-height 高（度）
-helix 螺旋线
-hemisphere 半球体；半球
-heptagon 七边形
-Heron's formula 希罗公式
-heterogeneous (1)参差的; (2)不纯一的
-hexagon 六边形
-higher order derivative 高阶导数
-highest common factor(H.C.F) 最大公因子；最高公因式；最高公因子
-Hindu-Arabic numeral 阿刺伯数字
-histogram 组织图；直方图；矩形图
-Holder's Inequality 赫耳德不等式
-homogeneous 齐次的
-homogeneous equation 齐次方程
-Hooke's law 虎克定律
-horizontal 水平的；水平
-horizontal asymptote 水平渐近线
-horizontal component 水平分量
-horizontal line 横线　；水平线　
-horizontal range 水平射程
-hyperbola 双曲线　
-hyperbolic function 双曲函数
-hypergeometric distribution 超几何分布
-hypocycloid 内摆线
-hypotenuse 斜边
-hypothesis 假设
-hypothesis testing 假设检验
-hypothetical syllogism 假设三段论
-hypotrochoid 次内摆线
-idempotent 全幂等的
-identical 全等；恒等
-identity 等（式）
-identity element 单位元
-identity law 同一律
-identity mapping 恒等映射
-identity matrix 恒等矩阵
-identity relation 恒等关系式
-if and only if/iff 当且仅当；若且仅若
-if…, then 若….则；如果…..则
-illustration 例证；说明
-image 像点；像
-image axis 虚轴
-imaginary circle 虚圆
-imaginary number 虚数
-imaginary part 虚部
-imaginary root 虚根
-imaginary unit 虚数单位
-impact 碰撞
-implication 蕴涵式；蕴含式
-implicit definition 隐定义
-implicit function 隐函数
-imply 蕴涵；蕴含
-impossible event 不可能事件
-improper fraction 假分数
-improper integral 广义积分; 非正常积分
-impulse 冲量
-impulsive force 冲力
-incentre 内力
-incircle 内切圆
-inclination 倾角；斜角
-inclined plane 斜面
-included angle 夹角
-included side 夹边
-inclusion mapping 包含映射
-inclusive 包含的；可兼的
-inclusive disjunction 包含性析取；可兼析取
-inconsistent 不相的(的)；不一致(的)
-increase 递增；增加
-increasing function 递增函数
-increasing sequence 递增序列
-increasing series 递增级数
-increment 增量
-indefinite integral 不定积分
-idenfinite integration 不定积分法
-independence 独立；自变
-independent equations 独立方程
-independent event 独立事件
-independent variable 自变量；独立变量
-indeterminate (1)不定的；(2)不定元；未定元
-indeterminate coefficient 不定系数；未定系数
-indeterminate form 待定型；不定型
-index,indices 指数；指
-index notation 指数记数法
-induced operation 诱导运算
-induction hypothesis 归纳法假设
-inelastic collision 非弹性碰撞
-inequality 不等式；不等
-inequality sign 不等号
-inertia 惯性；惯量
-infer 推断
-inference 推论
-infinite 无限；无穷
-infinite dimensional 无限维
-infinite population 无限总体
-infinite sequence 无限序列；无穷序列
-infinite series 无限级数；无穷级数
-infinitely many 无穷多
-infinitesimal 无限小；无穷小
-infinity 无限(大)；无穷(大)
-inflection (inflexion) point 拐点；转折点
-inherent error 固有误差
-initial approximation 初始近似值
-initial condition 原始条件；初值条件
-initial point 始点；起点
-initial side 始边
-initial value 初值；始值
-initial velocity 初速度
-initial-value problem 初值问题
-injection 内射
-injective function 内射函数
-inner product 内积
-input 输入
-input box 输入
-inscribed circle 内切圆
-insertion 插入
-insertion of brackets 加括号
-instantaneous 瞬时的
-instantaneous acceleration 瞬时加速度
-instantaneous speed 瞬时速率
-instantaneous velocity 瞬时速度
-integer 整数
-integrable 可积
-integrable function 可积函数
-integral 积分
-integral index 整数指数
-integral mean value theorem 积数指数
-integral part 整数部份
-integral solution 整数解
-integral value 整数值
-integrand 被积函数
-integrate 积；积分；......的积分
-integrating factor 积分因子
-integration 积分法
-integration by parts 分部积分法
-integration by substitution 代换积分法；换元积分法
-integration constant 积分常数
-interaction 相互作用
-intercept 截距；截段
-intercept form 截距式
-intercept theorem 截线定理
-interchange 互换
-interest 利息
-interest rate 利率
-interest tax 利息税
-interior angle 内角
-interior angles on the same side of the transversal 同旁内角
-interior opposite angle 内对角
-intermediate value theorem 介值定理
-internal bisector 内分角　
-internal division 内分割
-internal energy 内能
-internal force 内力
-internal point of division 内分点
-interpolating polynomial 插值多项式
+difference of sets | 差集
+differentiable | 可微
+differential | 微分
+differential coefficient | 微商; 微分系数
+differential equation | 微分方程
+differential mean value theorem | 微分中值定理
+differentiate | 求...的导数
+differentiate from first principle | 从基本原理求导数
+differentiation | 微分法
+digit  | 数字
+dimension | 量; 量网; 维(数)
+direct impact | 直接碰撞
+direct image | 直接像
+direct proportion | 正比例
+direct tax, direct taxation | 直接税
+direct variation | 正变(分)
+directed angle | 有向角
+directed line | 有向直线
+directed line segment | 有向线段
+directed number | 有向数
+direction | 方向; 方位
+direction angle | 方向角
+direction cosine | 方向余弦
+direction number | 方向数
+direction ratio | 方向比
+directrix | 准线
+Dirichlet function | 狄利克来函数
+discontinuity | 不连续性
+discontinuous | 间断(的);连续(的); 不连续(的)
+discontinuous point | 不连续点
+discount | 折扣
+discrete | 分立; 离散
+discrete data | 离散数据; 间断数据
+discrete random variable | 间断随机变数
+discrete uniform distribution | 离散均匀分布
+discriminant | 判别式
+disjoint | 不相交的
+disjoint sets | 不相交的集
+disjunction | 析取
+dispersion | 离差
+displacement | 位移
+disprove | 反证
+distance | 距离
+distance formula | 距离公式
+distinct roots | 相异根
+distincr solution | 相异解
+distribution | 公布
+distributive law | 分配律
+diverge | 发散
+divergence | 发散(性)
+divergent | 发散的
+divergent iteration | 发散性迭代
+divergent sequence | 发散序列
+divergent series | 发散级数
+divide | 除
+dividend | (1)被除数；(2)股息
+divisible | 可整除
+division | 除法
+division algorithm | 除法算式
+divisor | 除数；除式；因子
+divisor of zero | 零因子
+dodecagon | 十二边形
+domain | 定义域
+dot | 点
+dot product | 点积
+double angle | 二倍角
+double angle formula | 二倍角公式
+double root | 二重根
+dual | 对偶
+duality | (1)对偶性; (2) 双重性
+due east/ south/ west /north | 向 东/ 南/ 西/ 北
+dynamics | 动力学
+eccentric angle | 离心角
+eccentric circles | 离心圆
+eccentricity | 离心率
+echelon form | 梯阵式
+echelon matrix | 梯矩阵
+edge | 棱；边
+efficient estimator | 有效估计量
+effort | 施力
+eigenvalue | 本征值
+eigenvector | 本征向量
+elastic body | 弹性体
+elastic collision | 弹性碰撞
+elastic constant | 弹性常数
+elastic force | 弹力
+elasticity | 弹性
+element | 元素
+elementary event | 基本事件
+elementary function | 初等函数
+elementary row operation | 基本行运算
+elimination | 消法
+elimination method | 消去法；消元法
+ellipse | 椭圆
+ellipsiod | 椭球体
+elliptic function | 椭圆函数
+elongation | 伸张；展
+empirical data | 实验数据
+empirical formula | 实验公式
+empirical probability | 实验概率；经验概率
+empty set | 空集
+encoding | 编码
+enclosure | 界限
+end point | 端点
+energy | 能; 能量
+entire surd | 整方根
+epicycloid | 外摆线
+equal | 相等
+equal ratios theorem | 等比定理
+equal roots | 等根
+equal sets | 等集
+equality | 等(式)
+equality sign | 等号
+equation | 方程
+equation in one unknown | 一元方程
+equation in two unknowns (variables) | 二元方程
+equation of a straight line | 直线方程
+equation of locus | 轨迹方程
+equiangular | 等角(的)
+equidistant | 等距(的)
+equilateral | 等边(的)
+equilateral polygon | 等边多边形
+equilateral triangle | 等边三角形
+equilibrium | 平衡
+equiprobable | 等概率的
+equiprobable space | 等概率空间
+equivalence | 等价
+equivalence class | 等价类
+equivalence relation | 等价关系
+equivalent | 等价(的)
+error | 误差
+error allowance | 误差宽容度
+error estimate | 误差估计
+error term | 误差项
+error tolerance | 误差宽容度
+escribed circle | 旁切圆
+estimate | 估计；估计量
+estimator | 估计量
+Euclidean algorithm | 欧几里德算法
+Euclidean geometry | 欧几里德几何
+Euler's formula | 尤拉公式；欧拉公式
+evaluate | 计值
+even function | 偶函数
+even number | 偶数
+evenly distributed | 均匀分布的
+event | 事件
+exact | 真确
+exact differential form | 恰当微分形式
+exact solution | 准确解；精确解；真确解
+exact value | 法确解；精确解；真确解
+example | 例
+excentre | 外心
+exception | 例外
+excess | 起
+exclusive | 不包含
+exclusive disjunction | 不包含性析取
+exclusive events | 互斥事件
+exercise | 练习
+exhaustive event(s) | 彻底事件
+existential quantifier | 存在量词
+expand | 展开
+expand form | 展开式
+expansion | 展式
+expectation | 期望
+expectation value, expected value | 期望值；预期值
+experiment | 实验；试验
+experimental | 试验的
+experimental probability | 实验概率
+explicit function | 显函数
+exponent | 指数
+exponential function | 指数函数
+exponential order | 指数阶; 指数级
+express…in terms of… | 以………表达
+expression | 式；数式
+extension | 外延；延长；扩张；扩充
+extension of a function | 函数的扩张
+exterior angle | 外角
+external angle bisector | 外分角　
+external point of division | 外分点
+extreme point | 极值点
+extreme value | 极值
+extremum | 极值
+face | 面
+factor | 因子；因式；商
+factor method | 因式分解法
+factor theorem | 因子定理；因式定理
+factorial | 阶乘
+factorization | 因子分解；因式分解
+factorization of polynomial | 多项式因式分解
+fallacy | 谬误
+FALSE | 假(的)
+falsehood | 假值
+family | 族
+family of circles | 圆族
+family of concentric circles | 同心圆族
+family of straight lines | 直线族
+feasible solution | 可行解；容许解
+Fermat's last theorem | 费尔马最后定理
+Fibonacci number | 斐波那契数；黄金分割数
+Fibonacci sequence | 斐波那契序列
+fictitious mean | 假定平均数
+figure | (1)图(形)；(2)数字
+final velocity | 末速度
+finite | 有限
+finite dimensional vector space | 有限维向量空间
+finite population | 有限总体
+finite probability space | 有限概率空间
+finite sequence | 有限序列
+finite series | 有限级数
+finite set | 有限集
+first approximation | 首近似值
+first derivative | 一阶导数
+first order differential equation | 一阶微分方程
+first projection | 第一投影; 第一射影
+first quartile | 第一四分位数
+first term | 首项
+fixed deposit | 定期存款
+fixed point | 定点
+fixed point iteration method | 定点迭代法
+fixed pulley | 定滑轮
+flow chart | 流程图
+focal axis | 焦轴
+focal chord | 焦弦
+focal length | 焦距
+focus(foci) | 焦点
+folium of Descartes | 笛卡儿叶形线
+foot of perpendicular | 垂足
+for all X | 对所有X
+for each /every X | 对每一X
+force | 力
+forced oscillation | 受迫振动
+form | 形式；型
+formal proof | 形式化的证明
+format | 格式；规格
+formula(formulae) | 公式
+four leaved rose curve | 四瓣玫瑰线
+four rules | 四则
+four-figure table | 四位数表
+fourth root | 四次方根
+fraction | 分数；分式
+fraction in lowest term | 最简分数
+fractional equation | 分式方程
+fractional index | 分数指数
+fractional inequality | 分式不等式
+free fall | 自由下坠
+free vector | 自由向量; 自由矢量
+frequency | 频数；频率
+frequency distribution | 频数分布；频率分布
+frequency distribution table | 频数分布表
+frequency polygon | 频数多边形；频率多边形
+friction | 摩擦; 摩擦力
+frictionless motion | 无摩擦运动
+frustum | 平截头体
+fulcrum | 支点
+function | 函数
+function of function | 复合函数；迭函数
+functional notation | 函数记号
+fundamental theorem of algebra | 代数基本定理
+fundamental theorem of calculus | 微积分基本定理
+gain | 增益；赚；盈利
+gain perent | 赚率；增益率；盈利百分率
+game |（1）对策；（2）博奕
+Gaussian distribution | 高斯分布
+Gaussian elimination | 高斯消去法
+general form | 一般式；通式
+general solution | 通解；一般解
+general term | 通项
+generating function | 母函数; 生成函数
+generator | (1)母线; (2)生成元
+geoborad | 几何板
+geometric distribution | 几何分布
+geometric mean | 几何平均数；等比中项
+geometric progression | 几何级数；等比级数
+geometric sequence | 等比序列
+geometric series | 等比级数
+geometry | 几何；几何学
+given | 给定；已知
+global | 全局; 整体
+global maximum | 全局极大值; 整体极大值
+global minimum | 全局极小值; 整体极小值
+golden section | 黄金分割
+grade | 等级
+gradient | (1)斜率；倾斜率；(2)梯度
+grand total | 总计
+graph | 图像；图形；图表
+graph paper | 图表纸
+graphical method | 图解法
+graphical representation | 图示；以图样表达
+graphical solution | 图解
+gravitational acceleration | 重力加速度
+gravity | 重力
+greatest term | 最大项
+greatest value | 最大值
+grid lines | 网网格线
+group | 组；　
+grouped data | 分组数据；分类数据
+grouping terms | 并项；集项
+growth | 增长
+growth factor | 增长因子
+half angle | 半角
+half angle formula | 半角公式
+half closed interval | 半闭区间
+half open interval | 半开区间
+harmonic mean | (1) 调和平均数; (2) 调和中项
+harmonic progression | 调和级数
+head | 正面（钱币）
+height | 高（度）
+helix | 螺旋线
+hemisphere | 半球体；半球
+heptagon | 七边形
+Heron's formula | 希罗公式
+heterogeneous | (1)参差的; (2)不纯一的
+hexagon | 六边形
+higher order derivative | 高阶导数
+highest common factor(H.C.F) | 最大公因子；最高公因式；最高公因子
+Hindu-Arabic numeral | 阿刺伯数字
+histogram | 组织图；直方图；矩形图
+Holder's Inequality | 赫耳德不等式
+homogeneous | 齐次的
+homogeneous equation | 齐次方程
+Hooke's law | 虎克定律
+horizontal | 水平的；水平
+horizontal asymptote | 水平渐近线
+horizontal component | 水平分量
+horizontal line | 横线　；水平线　
+horizontal range | 水平射程
+hyperbola | 双曲线　
+hyperbolic function | 双曲函数
+hypergeometric distribution | 超几何分布
+hypocycloid | 内摆线
+hypotenuse | 斜边
+hypothesis | 假设
+hypothesis testing | 假设检验
+hypothetical syllogism | 假设三段论
+hypotrochoid | 次内摆线
+idempotent | 全幂等的
+identical | 全等；恒等
+identity | 等（式）
+identity element | 单位元
+identity law | 同一律
+identity mapping | 恒等映射
+identity matrix | 恒等矩阵
+identity relation | 恒等关系式
+if and only if/iff | 当且仅当；若且仅若
+if…, then | 若….则；如果…..则
+illustration | 例证；说明
+image | 像点；像
+image axis | 虚轴
+imaginary circle | 虚圆
+imaginary number | 虚数
+imaginary part | 虚部
+imaginary root | 虚根
+imaginary unit | 虚数单位
+impact | 碰撞
+implication | 蕴涵式；蕴含式
+implicit definition | 隐定义
+implicit function | 隐函数
+imply | 蕴涵；蕴含
+impossible event | 不可能事件
+improper fraction | 假分数
+improper integral | 广义积分; 非正常积分
+impulse | 冲量
+impulsive force | 冲力
+incentre | 内力
+incircle | 内切圆
+inclination | 倾角；斜角
+inclined plane | 斜面
+included angle | 夹角
+included side | 夹边
+inclusion mapping | 包含映射
+inclusive | 包含的；可兼的
+inclusive disjunction | 包含性析取；可兼析取
+inconsistent | 不相的(的)；不一致(的)
+increase | 递增；增加
+increasing function | 递增函数
+increasing sequence | 递增序列
+increasing series | 递增级数
+increment | 增量
+indefinite integral | 不定积分
+idenfinite integration | 不定积分法
+independence | 独立；自变
+independent equations | 独立方程
+independent event | 独立事件
+independent variable | 自变量；独立变量
+indeterminate | (1)不定的；(2)不定元；未定元
+indeterminate coefficient | 不定系数；未定系数
+indeterminate form | 待定型；不定型
+index,indices | 指数；指
+index notation | 指数记数法
+induced operation | 诱导运算
+induction hypothesis | 归纳法假设
+inelastic collision | 非弹性碰撞
+inequality | 不等式；不等
+inequality sign | 不等号
+inertia | 惯性；惯量
+infer | 推断
+inference | 推论
+infinite | 无限；无穷
+infinite dimensional | 无限维
+infinite population | 无限总体
+infinite sequence | 无限序列；无穷序列
+infinite series | 无限级数；无穷级数
+infinitely many | 无穷多
+infinitesimal | 无限小；无穷小
+infinity | 无限(大)；无穷(大)
+inflection (inflexion) point | 拐点；转折点
+inherent error | 固有误差
+initial approximation | 初始近似值
+initial condition | 原始条件；初值条件
+initial point | 始点；起点
+initial side | 始边
+initial value | 初值；始值
+initial velocity | 初速度
+initial-value problem | 初值问题
+injection | 内射
+injective function | 内射函数
+inner product | 内积
+input | 输入
+input box | 输入
+inscribed circle | 内切圆
+insertion | 插入
+insertion of brackets | 加括号
+instantaneous | 瞬时的
+instantaneous acceleration | 瞬时加速度
+instantaneous speed | 瞬时速率
+instantaneous velocity | 瞬时速度
+integer | 整数
+integrable | 可积
+integrable function | 可积函数
+integral | 积分
+integral index | 整数指数
+integral mean value theorem | 积数指数
+integral part | 整数部份
+integral solution | 整数解
+integral value | 整数值
+integrand | 被积函数
+integrate | 积；积分；......的积分
+integrating factor | 积分因子
+integration | 积分法
+integration by parts | 分部积分法
+integration by substitution  | 代换积分法；换元积分法
+integration constant | 积分常数
+interaction | 相互作用
+intercept | 截距；截段
+intercept form | 截距式
+intercept theorem | 截线定理
+interchange | 互换
+interest | 利息
+interest rate | 利率
+interest tax | 利息税
+interior angle | 内角
+interior angles on the same side of the transversal | 同旁内角
+interior opposite angle | 内对角
+intermediate value theorem | 介值定理
+internal bisector | 内分角　
+internal division | 内分割
+internal energy | 内能
+internal force  | 内力
+internal point of division | 内分点
+interpolating polynomial | 插值多项式
 interpolation 插值
 inter-quartile range 四分位数间距
 intersect 相交
