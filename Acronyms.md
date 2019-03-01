@@ -167,9 +167,13 @@ LCTB* 	| Largest coded tree unit, syn. CTU
 LCU* 	| Larges coding unit, syn. CTU
 LD 	| Low delay (JCT-VC CTC)
 Level   | A set of conformance parameters (applied to a Profile)
+LKFS    | Loudness K-weighted Full Scale(one unit of LKFS is equal to one dB), The LKFS term is used in the ITU BS.1770 standard and the ATSC A/85 standard also operates with this term
 LP 	| Lowpass [filter]
 LPS 	| Least probably symbol
+LRA     | Loudness Range - or LRA - describes the overall program material range
 LSB 	| Least Significant Bit
+LU      | Loudness Units
+LUFS    | Loudness Units Full Scale, same as LKFS, the European Broadcast Union (EBU) uses the term LUFS
 latency | Delay through a communication system
 loop filter | Spatial filter placed within encoding or decoding feedback loop
 luminance or luma | Monochrome or brightness component
