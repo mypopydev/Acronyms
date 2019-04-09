@@ -185,6 +185,7 @@ MANE 	| Media aware network element
 MB 	| Macroblock (H.264/AVC)
 MBAFF 	| Macroblock adaptive frame/field coding (H.264/AVC)
 MC 	| Motion compensation
+MDCT    | Modified discrete cosine transform
 MDDT* 	| Mode dependent directional transform
 ME 	| Motion estimation
 MMCO 	| Memory management control operation (H.264/AVC)
