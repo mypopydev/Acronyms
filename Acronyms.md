@@ -7,6 +7,7 @@ AAC 	| Advanced audio coding
 AAP 	| Alternative Approval Process
 ACM MoVid | Association for Computer Machinery Mobile Video
 ACQP    | Adaptive Chroma Quantization Parameter
+ADTS    | Audio Data Transport Stream (ADTS) is a format, used by MPEG TS or Shoutcast to stream audio, usually AAC.
 AhG 	| Ad hoc group
 AI 	| All intra (JCT-VC CTC)
 AIF* 	| Adaptive interpolation filter
