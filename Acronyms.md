@@ -90,7 +90,9 @@ DiOR    | Digital Operating Room
 DIQA    | Document Image Quality Assessment
 DLP* 	| Decodable leading picture, syn. RADL
 DNG     | Digital Negative, open lossless raw image format written by Adobe used for digital photography
+DMCVT   | Dynamic Metadata for Color Volume Transforms, SMPTE ST 2094
 DMVD 	| Decoder side motion vector derivation
+Dolby Vision | 12-bit HDR, BT.2020, PQ, Dolby Vision dynamic metadata
 DPB 	| Decoded picture buffer
 DPCM 	| Differential Pulse Code Modulation
 DSCQS   | Double Stimulus Continuous Quality Scale, a scale and method for subjective quality measurement
@@ -125,9 +127,13 @@ fps 	| Frames per second
 GRD 	| Gradual Decoder Refresh (H.264/AVC)
 GOP 	| Group of pictures (a set of coded video images)
 HD 	| High definition
+HDR     | High Dynamic Range TV (ITU-R BT.2100)
+HDR10   | 10-bit HDR using BT.2020, PQ and static metadata
 HDTV 	| High definition television
+HFR     | High Frame Rate (100 & 120 fps)
 HEIF    | High Efficiency Image File Format
 HEVC 	| High efficiency video coding
+HLG     | Hybrid Log Gamma Transfer Function for HDR signals (ITU-R BT.2100)
 HM 	| HEVC test model
 HP 	| Highpass [filter]
 HRD 	| Hypothetical reference decoder (Decoder ‘model’ that may be used to test bitstream conformance)
@@ -183,6 +189,9 @@ Macroblock | Region of frame coded as a unit (usually 16 × 16 pixels in the ori
 Macroblock partition | Region of macroblock with its own motion vector
 Macroblock sub-partition | Region of macroblock with its own motion vector
 MANE 	| Media aware network element
+MaxCLL  | Maximum Content Light Level
+MaxFALL | Maximum Frame-Average Light Level
+Mastering Display Metadata | SMPTE ST 2086 (min/max luminance, color volume)
 MB 	| Macroblock (H.264/AVC)
 MBAFF 	| Macroblock adaptive frame/field coding (H.264/AVC)
 MC 	| Motion compensation
@@ -218,6 +227,7 @@ PCM 	| Pulse code modulation
 PDAM 	| Proposed draft amendment
 Picture (coded) | Coded (compressed) video frame
 P-picture (slice) | Coded picture (or slice) using motion-compensated prediction from one reference frame
+PQ      | Perceptual QuantizerTransfer Function for HDR signals (SMPTE ST 2084, ITU-R BT.2100)
 PPS 	| Picture parameter set
 PSNR 	| Peak signal to noise ratio, an objective quality measure
 POC 	| Picture order count
@@ -262,6 +272,7 @@ SCC     | Screen Content Coding
 SCM     | Screen content coding test module
 SD 	| Standard definition (TV)
 SDH 	| Sign data hiding
+SDR     | Standard Dynamic Range TV (Rec.601, Rec.709, Rec.2020)
 SECAM 	| Séquentiel couleur à mémoire
 SEI 	| Supplemental enhancement information
 SG 	| Study group
@@ -304,6 +315,7 @@ test model | A software model and document that describe a reference implementat
 texture | Image or residual data
 tree-structured motion compensation | Motion compensation featuring a flexible hierarchy of partition sizes
 UHD 	| Ultra High Definition
+Ultra HD Blu-ray | HDR disc format using HEVC, HDR10, and optionally Dolby Vision
 VBR 	| Variable bitrate
 VCEG 	| Visual coding experts group
 VCL 	| Video Coding Layer
@@ -319,7 +331,7 @@ VQA     | Video Quality Assessment
 VQEG    | Very Large Scale Integrated circuit
 VUI 	| Video usability information
 video packet | Coded unit suitable for packetization
-WCG     | Wide Color Gamut
+WCG     | Wide Color Gamut, anything wider than Rec.709,  DCI P3, Rec.2020
 WD 	| Working draft
 WG 	| Working group
 WPP 	| Wavefront parallel processing
